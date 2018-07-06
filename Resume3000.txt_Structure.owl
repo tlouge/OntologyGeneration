@@ -1,0 +1,1007 @@
+<?xml version="1.0"?>
+        <Ontology xmlns="http://www.w3.org/2002/07/owl#"
+        xml:base="http://www.semanticweb.org/root/ontologies/2017/5/untitled-ontology-72"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:xml="http://www.w3.org/XML/1998/namespace"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        ontologyIRI="http://www.semanticweb.org/root/ontologies/2017/5/untitled-ontology-72">
+        <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+        <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+        <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+        <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+        <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+
+<Declaration>
+	<Class IRI="#rms_uncertainty_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rms_uncertainty_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rms uncertainty on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(a(b)=a*10^b^)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(a(b)=a*10^b^)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(a(b)=a*10^b^)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hei-5876"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hei-5876</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hei-5876
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#color"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#color</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">color
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#emission_line_flux"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#emission_line_flux</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emission line flux
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#weight_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#weight_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">weight on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#designation_understandable_bffgfirebricksimbad_data-base"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#designation_understandable_bffgfirebricksimbad_data-base</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">designation understandable bffgfirebricksimbad data-base
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#record_number_assigned_vizier_team._should_used_identification."/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#record_number_assigned_vizier_team._should_used_identification.</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">record number assigned vizier team. should used identification.
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#get_all_parameters_all_filters_that_galaxy"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#get_all_parameters_all_filters_that_galaxy</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">get all parameters all filters that galaxy
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(icrs)_(computed_vizier,_part_original_data)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(icrs)_(computed_vizier,_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (icrs) (computed vizier, part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#spitzer/irac"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#spitzer/irac</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">spitzer/irac
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+	<Class IRI="#declination_(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(j2000)_from_simbad_(not_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (j2000) from simbad (not part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#*combination_src_pos_and_acc_pos,_where_src_pos_=_spectral_region_positional_data_acc_pos_=_positional_accuracy_indication"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#*combination_src_pos_and_acc_pos,_where_src_pos_=_spectral_region_positional_data_acc_pos_=_positional_accuracy_indication</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">*combination src_pos and acc_pos, where src_pos = spectral region positional data acc_pos = positional accuracy indication
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#galactic"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#galactic</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">galactic
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+	<Class IRI="#(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(j2000)_from_simbad_(not_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (j2000) from simbad (not part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#number_near_neighbors_used_as_an_estimate_local_density"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#number_near_neighbors_used_as_an_estimate_local_density</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">number near neighbors used as an estimate local density
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#sharpness"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#sharpness</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sharpness
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#limit_flag_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#limit_flag_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">limit flag on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#abundance_(a(b)=a*10^b^)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#abundance_(a(b)=a*10^b^)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">abundance (a(b)=a*10^b^)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#number"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#number</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">number
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#uncertainty_flag_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#uncertainty_flag_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">uncertainty flag on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(g3)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(g3)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(g3)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(continuum)_(g3)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#(continuum)_(g3)"/>
+	<Class IRI="#(g3)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(continuum)_(g3)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(continuum) (g3)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#ueld_remark_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#ueld_remark_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ueld remark on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_heii-4686"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_heii-4686</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error heii-4686
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#hour_right_ascension"/>
+	<Class IRI="#right_ascension"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+	<Class IRI="#right_ascension"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_(icrs)_(computed_vizier,_part_original_data)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_(icrs)_(computed_vizier,_part_original_data)"/>
+	<Class IRI="#right_ascension"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_(icrs)_(computed_vizier,_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension (icrs) (computed vizier, part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+	<Class IRI="#right_ascension"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#star_name"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#star_name</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">star name
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(icrs)_(computed_vizier,_part_original_data)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_(icrs)_(computed_vizier,_part_original_data)"/>
+	<Class IRI="#declination"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(icrs)_(computed_vizier,_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (icrs) (computed vizier, part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#declination"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#declination"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+	<Class IRI="#declination"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(j2000)_from_simbad_(not_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (j2000) from simbad (not part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_(icrs)_(computed_vizier,_part_original_data)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_(icrs)_(computed_vizier,_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension (icrs) (computed vizier, part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#nd_note_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#nd_note_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nd note on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#*_an_*_indicates_that_there_were_no_value_cgcg_and_that_magnitude_given_is_original_estimates_authors"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#*_an_*_indicates_that_there_were_no_value_cgcg_and_that_magnitude_given_is_original_estimates_authors</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">* an * indicates that there were no value cgcg and that magnitude given is original estimates authors
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width_star"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width_star</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width star
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_oiii-4363"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_oiii-4363</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error oiii-4363
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#degree"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#degree</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">degree
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+	<Class IRI="#degree"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#degree"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#degree"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(continuum)_(g3)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(continuum)_(g3)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(continuum) (g3)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_oiii-4363"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_oiii-4363"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_oiii-4363</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error oiii-4363
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hei-5876"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_hei-5876"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hei-5876</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hei-5876
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_heii-4686"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_heii-4686"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_heii-4686</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error heii-4686
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#mean_error_on"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#mean_error_on"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#mean_error_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">mean error on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hei-6678"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_hei-6678"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hei-6678</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hei-6678
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#magnitude_(vega)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#magnitude_(vega)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">magnitude (vega)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#0.03/50979_wise/w2_(4.6mum)_flux_density"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#0.03/50979_wise/w2_(4.6mum)_flux_density</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">0.03/50979 wise/w2 (4.6mum) flux density
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(vega)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(vega)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(vega)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_(j2000)_from_simbad_(not_part_original_data)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_(j2000)_from_simbad_(not_part_original_data)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination (j2000) from simbad (not part original data)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#mean_error_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#mean_error_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">mean error on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#ask_bffgfirebricksimbad_data-base_about_this_object"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#ask_bffgfirebricksimbad_data-base_about_this_object</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ask bffgfirebricksimbad data-base about this object
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#ask_bffgfirebrickned_data-base_about_this_object"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#ask_bffgfirebrickned_data-base_about_this_object</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ask bffgfirebrickned data-base about this object
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(g2)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(g2)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(g2)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the_band_apparent_half-light_radius"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the_band_apparent_half-light_radius</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the band apparent half-light radius
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#1sigma_uncertainty"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#1sigma_uncertainty</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1sigma uncertainty
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#0.04/49559_wise/w1_(3.35mum)_flux_density"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#0.04/49559_wise/w1_(3.35mum)_flux_density</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">0.04/49559 wise/w1 (3.35mum) flux density
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#colour_index"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#colour_index</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">colour index
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#name"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#name</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">name
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#star_name"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#star_name"/>
+	<Class IRI="#name"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#star_name</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">star name
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hjd"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hjd</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hjd
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_estimate"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_estimate</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error estimate
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#uncertainty"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#uncertainty</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">uncertainty
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#1sigma_uncertainty"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#1sigma_uncertainty"/>
+	<Class IRI="#uncertainty"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#1sigma_uncertainty</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1sigma uncertainty
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#uncertainty_flag_on"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#uncertainty_flag_on"/>
+	<Class IRI="#uncertainty"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#uncertainty_flag_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">uncertainty flag on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width_ngc"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width_ngc</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width ngc
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#s_used_abundance"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#s_used_abundance</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">s used abundance
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#magnitude"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">magnitude
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#*_an_*_indicates_that_there_were_no_value_cgcg_and_that_magnitude_given_is_original_estimates_authors"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#*_an_*_indicates_that_there_were_no_value_cgcg_and_that_magnitude_given_is_original_estimates_authors"/>
+	<Class IRI="#magnitude"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#*_an_*_indicates_that_there_were_no_value_cgcg_and_that_magnitude_given_is_original_estimates_authors</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">* an * indicates that there were no value cgcg and that magnitude given is original estimates authors
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#de_vaucouleurs_band_apparent_magnitude"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#de_vaucouleurs_band_apparent_magnitude"/>
+	<Class IRI="#magnitude"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#de_vaucouleurs_band_apparent_magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">de vaucouleurs band apparent magnitude
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	<Class IRI="#declination_decimal_degrees_(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hei-6678"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hei-6678</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hei-6678
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#hour_right_ascension_(j2000)"/>
+	<Class IRI="#right_ascension_(j2000)"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#hour_right_ascension_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hour right ascension (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#de_vaucouleurs_band_apparent_magnitude"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#de_vaucouleurs_band_apparent_magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">de vaucouleurs band apparent magnitude
+	</Literal>
+</AnnotationAssertion>
+</Ontology>

@@ -1,0 +1,4000 @@
+Record number assigned by the VizieR team. Should Not be used for identification.
+Target name (HHMMm+DDMM)
+Zero-point K magnitude
+Right ascension (J2000) 
+Declination (J2000) 
+Note
+Record number assigned by the VizieR team. Should Not be used for identification.
+IRAS identification (HHMMm+DDMMA) \linkRole{K-band photometry calibration }
+Associations identification(s)
+Estimated distance
+Reference for Dist 
+Bolometric luminosity
+2MASS J band magnitude 
+2MASS H band magnitude 
+2MASS Ks band magnitude 
+Source spectral index
+Details from 2MASS point source catalog (II/246)
+Square root of the area within the K=19mag/arcsec^2^ surface brightness contour
+[*] stellar image dominates 
+Download the FITS file
+Name of the FITS image file in fig subdirectory
+Name of the FITS second image file in fig subdirectory
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+2MASS Hour of Right Ascension (J2000)
+2MASS Degree of Declination (J2000)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension (J2000)
+Declination (J2000)
+[as*] Reference for position 
+Simbad name
+Name \linkRole{properties of the HII region }
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identification (G1)
+The [OII] 3727 emission line flux 
+Error in OII-3727
+The H12 3750 emission line flux 
+Error in H12-3750
+The H11 3771 emission line flux 
+Error in H11-3771
+The H10 3797 emission line flux 
+Error in H10-3797
+The H9 3835 emission line flux 
+Error in H9-3835
+The H8+HeI 3889 emission line flux 
+Error in H8+HeI
+The H{delta} 4102 emission line flux 
+Error in Hd-4102
+The H{gamma} 4340 emission line flux 
+Error in Hg-4340
+The [OIII] 4363 emission line flux 
+Error in OIII-4363
+The HeI 4471 emission line flux 
+Error in HeI-4471
+The HeII 4686 emission line flux 
+Error in HeII-4686
+The H{beta} 4861 emission line flux 
+Error in Hb-4861
+The [OIII] 4959 emission line flux 
+Error in OIII-4959
+The [OIII] 5007 emission line flux 
+Error in OIII-5007
+The HeI 5876 emission line flux 
+Error in HeI-5876
+The H{alpha} 6563 emission line flux 
+Error in Ha-6563
+The [NII] 6583 emission line flux 
+Error in NII-6583
+The HeI 6678 emission line flux 
+Error in HeI-6678
+The [SII] 6717 emission line flux 
+Error in SII-6717
+The [SII] 6731 emission line flux 
+Error in SII-6731
+The HeI 7065 emission line flux 
+Error in HeI-7065
+The [OII] 7320 emission line flux 
+Error in OII-7320
+The [OII] 7330 emission line flux 
+Error in OII-7330
+The [OII] 3727 equivalent width 
+Error in OII-3727
+The H12 3750 equivalent width 
+Error in H12-3750
+The H11 3771 equivalent width 
+Error in H11-3771
+The H10 3797 equivalent width 
+Error in H10-3797
+The H9 3835 equivalent width 
+Error in H9-3835
+The H8+HeI 3889 equivalent width 
+Error in H8+HeI
+The H{delta} 4102 equivalent width 
+Error in Hd-4102
+The H{gamma} 4340 equivalent width 
+Error in Hg-4340
+The [OIII] 4363 equivalent width 
+Error in OIII-4363
+The HeI 4471 equivalent width 
+Error in HeI-4471
+The HeII 4686 equivalent width 
+Error in HeII-4686
+The H{beta} 4861 equivalent width 
+Error in Hb-4861
+The [OIII] 4959 equivalent width 
+Error in OIII-4959
+The [OIII] 5007 equivalent width 
+Error in OIII-5007
+The HeI 5876 equivalent width 
+Error in HeI-5876
+The H{alpha} 6563 equivalent width 
+Error in Ha-6563
+The [NII] 6583 equivalent width 
+Error in NII-6583
+The HeI 6678 equivalent width 
+Error in HeI-6678
+The [SII] 6717 equivalent width 
+Error in SII-6717
+The [SII] 6731 equivalent width 
+Error in SII-6731
+The HeI 7065 equivalent width 
+Error in HeI-7065
+The [OII] 7320 equivalent width 
+Error in OII-7320
+The [OII] 7330 equivalent width 
+Error in OII-7330
+The O/H abundance ratio 
+Uncertainty in (O/H)1
+The O/H abundance ratio 
+Uncertainty in (O/H)2
+The N/H abundance ratio 
+Uncertainty in (N/H)1
+The N/H abundance ratio 
+Uncertainty in (N/H)2
+The He mass fraction
+Uncertainty in Y
+The H{beta} equivalent width in Angstroms
+Electron temperature in the O III region
+Uncertainty in TeOIII
+Electron temperature in the He+ region
+Uncertainty in TeHe+
+Electron density
+Upper limit uncertainty in Ne
+Lower limit uncertainty in Ne
+Optical depth at 3889 Angstroms
+Upper limit uncertainty in tau
+Lower limit uncertainty in tau
+Fraction of H{alpha} emission due to collisional excitation
+The ionization correction factor
+The {chi}^2^_min_ of the best solution
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS name (mjd-plate-fiber) \linkRole{properties of the HII region } (G1)
+Right ascension in decimal degrees (J2000) 
+Declination in decimal degrees (J2000) 
+Redshift
+Display the SDSS data for this spectrum
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star designation 
+x position 
+y position 
+V magnitude
+B magnitude
+Uncertainty flag on Bmag
+U magnitude
+Uncertainty flag on Umag
+U-B colour index
+Uncertainty flag on U-B
+B-V colour index
+Uncertainty flag on B-V
+V-R colour index
+R-I colour index
+V-I colour index
+Number of observations
+Positions computed from (Xpos,Ypos) by VizieR (right ascension part)
+Positions computed from (Xpos,Ypos) by VizieR (declination part)
+[1101/4380] Star designation
+Multiplicity index on DI
+x position
+y position
+V magnitude
+Uncertainty flag on Vmag
+B-V colour index
+Uncertainty flag on B-V
+U-B colour index
+Uncertainty flag on U-B
+Proper motion along x direction
+Propoer motion along y direction
+Remarks
+Positions computed from (Xpos,Ypos) by VizieR (right ascension part)
+Positions computed from (Xpos,Ypos) by VizieR (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right Ascension of center (J2000)
+Declination of center (J2000)
+Scale of the image
+[1024] Number of pixels along X-axis
+[1024] Number of pixels along Y-axis
+[48] Number of slices
+Lower value of frequency interval for datacube (around H{alpha})
+Upper value of frequency interval for datacube (around H{alpha})
+[12.3058] Resolution on DFrep
+Download the corresponding FITS file
+Name of FITS file in subdirectory fits
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/108] Running number in catalog
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Radius of the HII region (scale=100pc/arcsec, distance=21.8Mpc)
+Log of H{alpha} luminosity
+Electron density
+Velocity dispersion {sigma}
+Ionized gas mass
+Total gas mass
+Virial mass
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Number from Sanner et al. 2000 (J/A+A/357/471) \dicS{Cl* NGC 1960 SAB NNNN} in Simbad
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Dereddened V magnitude (G1)
+Dereddened B-V colour index (G1)
+Dereddened V-Ks colour index (G1)
+Effective temperature
+Spitzer/IRAC 3.6um magnitude
+rms uncertainty on [3.6] (G2)
+Spitzer/IRAC 4.5um magnitude
+rms uncertainty on [4.5] (G2)
+Spitzer/IRAC 5.8um magnitude
+rms uncertainty on [5.8] (G2)
+Spitzer/IRAC 8.0um magnitude
+rms uncertainty on [8.0] (G2)
+Limit flag on [24]
+Spitzer/MIPS 24um magnitude
+Spitzer/IRAC 24um magnitude
+Limit flag on Ks-[24]
+Ks-[24] colour index
+Limit flag on F24/Fph
+Ratio of 24{mu}m to photospheric flux from Plavchan et al. (2009ApJ...698.1068P) relation
+Comments (G3)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source designation, N_NNNN
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Dereddened V magnitude (G1)
+Dereddened B-V colour index (G1)
+Dereddened V-Ks colour index (G1)
+Effective temperature
+Spitzer/IRAC 3.6um magnitude
+rms uncertainty on [3.6] (G2)
+Spitzer/IRAC 4.5um magnitude
+rms uncertainty on [4.5] (G2)
+Limit flag on [5.8]
+Spitzer/IRAC 5.8um magnitude
+rms uncertainty on [5.8] (G2)
+Limit flag on [8.0]
+Spitzer/IRAC 8.0um magnitude
+rms uncertainty on [8.0] (G2)
+Limit flag on [24]
+Spitzer/MIPS 24um magnitude
+Spitzer/IRAC 24um magnitude
+Limit flag on Ks-[24]
+Ks-[24] colour index
+Limit flag on F24/Fph
+Ratio of 24{mu}m to photospheric flux from Plavchan et al. (2009ApJ...698.1068P) relation
+Comments (G3)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Internal Object ID (56xxxxxx for Catalog, 51xxxxxx for Archive)
+[CA] "C" for Catalog, "A" for Archive
+Source identifier (JHHMMSS.ss-dDMMSS.s)
+{\bf c} indicates a source which exists with the same name in the Catalogue; blank for less reliable sources only in the Archive part, {\em or when the J-name differs between the Catalog and Archive parts}
+Right ascension (J2000)
+Declination (J2000)
+[0/4] "eqband" flag (band of position) 
+N3 x pixel coordinate
+N3 y pixel coordinate
+N3 (3.2um) magnitude
+N3 magnitude error 
+N3 magnitude total error 
+N3 PSF-fit {chi} parameter 
+N3 sharpness 
+N3 Observing date/time
+N3 observing Pointing Identifier
+N3 7-digit flag 
+[0/2] Number of S7 sources matching N3 
+Distance of nearest S7 match 
+S7 x pixel coordinate
+S7 y pixel coordinate
+S7 (7.1um) magnitude
+S7 magnitude error 
+S7 magnitude total error 
+S7 PSF-fit {chi} parameter 
+S7 sharpness 
+S7 Observing time
+S7 observing Pointing identifier
+S7 7-digit flag 
+[0/3] Number of S11 sources matching S7
+distance of nearest S11 match 
+S11 x pixel coordinate
+S11 y pixel coordinate
+S11 (10.5um) magnitude
+S11 magnitude error 
+S11 magnitude total error 
+S11 PSF-fit {chi} parameter 
+S11 sharpness 
+S11 Observing time
+S11 observing Pointing identifier
+S11 7-digit flag 
+[0/5] Number of L15 sources matching S11 
+Distance of nearest L15 match 
+L15 x pixel coordinate
+L15 y pixel coordinate
+L15 (15.6um) magnitude
+L15 magnitude error 
+L15 magnitude total error 
+L15 PSF-fit {chi} parameter 
+L15 sharpness 
+L15 Observing time
+L15 observing Pointing identifier
+L15 7-digit flag 
+[0/5] Number of L24 sources matching 
+Distance of nearest L24 match 
+L24 x pixel coordinate
+L24 y pixel coordinate
+L24 (22.9um) magnitude
+L24 magnitude error 
+L24 magnitude total error 
+L24 PSF-fit {chi} parameter 
+L24 sharpness 
+L24 Observing time
+L24 observing Pointing identifier
+L24 7-digit flag 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Internal Object ID (56xxxxxx for Catalog, 51xxxxxx for Archive)
+[CA] "C" for Catalog, "A" for Archive
+Source identifier (JHHMMSS.ss-dDMMSS.s)
+Right ascension (J2000)
+Declination (J2000)
+[0/4] "eqband" flag (band of position) 
+N3 x pixel coordinate
+N3 y pixel coordinate
+N3 (3.2um) magnitude
+N3 magnitude error 
+N3 magnitude total error 
+N3 PSF-fit {chi} parameter 
+N3 sharpness 
+N3 Observing date/time
+N3 observing Pointing Identifier
+N3 7-digit flag 
+[0/2] Number of S7 sources matching N3 
+Distance of nearest S7 match 
+S7 x pixel coordinate
+S7 y pixel coordinate
+S7 (7.1um) magnitude
+S7 magnitude error 
+S7 magnitude total error 
+S7 PSF-fit {chi} parameter 
+S7 sharpness 
+S7 Observing time
+S7 observing Pointing identifier
+S7 7-digit flag 
+[0/3] Number of S11 sources matching S7
+distance of nearest S11 match 
+S11 x pixel coordinate
+S11 y pixel coordinate
+S11 (10.5um) magnitude
+S11 magnitude error 
+S11 magnitude total error 
+S11 PSF-fit {chi} parameter 
+S11 sharpness 
+S11 Observing time
+S11 observing Pointing identifier
+S11 7-digit flag 
+[0/5] Number of L15 sources matching S11 
+Distance of nearest L15 match 
+L15 x pixel coordinate
+L15 y pixel coordinate
+L15 (15.6um) magnitude
+L15 magnitude error 
+L15 magnitude total error 
+L15 PSF-fit {chi} parameter 
+L15 sharpness 
+L15 Observing time
+L15 observing Pointing identifier
+L15 7-digit flag 
+[0/5] Number of L24 sources matching 
+Distance of nearest L24 match 
+L24 x pixel coordinate
+L24 y pixel coordinate
+L24 (22.9um) magnitude
+L24 magnitude error 
+L24 magnitude total error 
+L24 PSF-fit {chi} parameter 
+L24 sharpness 
+L24 Observing time
+L24 observing Pointing identifier
+L24 7-digit flag 
+Matching SAGE sources within 5arcsec
+Record number assigned by the VizieR team. Should Not be used for identification.
+Hours of right ascension (J2000)
+Degrees of declination (J2000)
+Identifier
+V magnitude
+Number of observations
+Radial velocity
+Uncertainty in Radial Velocity
+Probability of chi
+Alternative Identification
+Note on variability
+Record number assigned by the VizieR team. Should Not be used for identification.
+Hours of right ascension (J2000)
+Degrees of declination (J2000)
+Identifier
+V magnitude
+Number of observations
+Radial velocity
+Uncertainty in Radial Velocity
+Probability of chi
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identification 
+X pixel coordinate 
+Y pixel coordinate 
+Washington T1 magnitude (633nm)
+1{sigma} error in T1mag
+Washington (C-T1) color index (391-633nm)
+1{sigma} error in C-T1
+Washington (T1-T2) color index (633-788nm)
+1{sigma} error in T1-T2
+Position computed from a comparison with UCAC3 (I/315) ({sigma}=0.04'') (right ascension part)
+Position computed from a comparison with UCAC3 (I/315) ({sigma}=0.04'') (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identification 
+X pixel coordinate 
+Y pixel coordinate 
+Washington T1 magnitude (633nm)
+1{sigma} error in T1mag
+Washington (C-T1) color index (391-633nm)
+1{sigma} error in C-T1
+Washington (T1-T2) color index (633-788nm)
+1{sigma} error in T1-T2
+Position computed from a comparison with UCAC2 (Cat. I/289 ({sigma}=0.03'') (right ascension part)
+Position computed from a comparison with UCAC2 (Cat. I/289 ({sigma}=0.03'') (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS-DR7 object identifier \linkRole{H{alpha} data (table 9)}
+SDSS-DR7 name ({\fg{green4}JHHMMSS.ss+DDMMSS.s}) from SDSS-DR7 (II/294)
+Chandra observation identifier
+Right Ascension from Chandra (J2000)
+Declination from Chandra (J2000)
+[0.02/0.2] Redshift
+Chandra counts
+[0.001/0.6] Chandra count rate
+[41/44.2] Log Chandra 2-10 keV luminosity; in erg/s
+[0.01/0.23] Upper limit error in logL 
+[0.01/0.45] Lower limit error in logL 
+Source note(s) 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS-DR7 object identifier
+{\bf X} indicates an AGN with X-ray data from Chandra (table 6)
+SDSS-DR7 name ({\fg{green4}JHHMMSS.ss+DDMMSS.s}) from SDSS-DR7 (II/294)
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+[0.01/0.2] Redshift
+[38.5/43.3] Log [OIII] line luminosity 
+[1028/20254] Broad H{alpha} Full-Width at Half-Maximum
+[4/42900] Error in FWHM
+[8.5/834] Broad H{alpha} equivalent width; Angstroms
+[40.5/43.4] Log broad H{alpha} line luminosity 
+[6.1/9.3] Log Blackhole mass 
+[0/1.7] Upper limit error in logMbh
+[0/1.1] Lpper limit error in logMbh
+[42/47] Log bolometric luminosity 
+Source note 
+Display the online SDSS data for the nearest object
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy name
+Right ascension (1950.0)
+Declination (1950.0)
+Apparent blue magnitude
+Optical major diameter of the 25mag/arcsec isophote
+Optical minor diameter of the 25mag/arcsec isophote
+Optical major axis position angle
+Hubble distance 
+Absolute blue magnitude
+Morphological type, from RC2
+Morphological type, from RSAC
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy name
+Text of the note 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy name
+Restoring beam-width (FWHM)
+Value that specifies the faintest contour level plotted, 2^(n/2)^mJy per beam solid angle (i.e., -3 means ~0.35mJy/beam)
+Limit flag on S1.49GHz
+Flux density at 1.49GHz
+[ue] Note on S1.49GHz 
+Limit flag on logL1.49GHz
+Absolute spectral luminosity at 1.49GHz
+[ue] Note on logL1.49GHz 
+Component right ascension (1950) 
+Declination (1950) 
+Peak flux density at 1.49GHz 
+Integrated flux density at 1.49GHz 
+Limit flag on FWHMmax 
+FWHM major-axis diameter 
+FWHM minor-axis diameter 
+Position angle of the major axis 
+[*] Note detailed in notes.dat file
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Plot identification number
+Object Name
+2MASS J-band magnitude (Cat. II/246)
+Uncertainty in Jmag
+2MASS H-band magnitude (Cat. II/246)
+Uncertainty in Hmag
+2MASS Ks-band magnitude (Cat. II/246)
+Uncertainty in Kmag
+Tycho-2 (Cat. I/259) proper motion in Right Ascension
+Uncertainty in pmRA
+[*] Indicates pmRA is from UCAC2 (Cat. I/289)
+Tycho-2 (Cat. I/259) proper motion in Declination
+Uncertainty in pmDE
+[*] Indicates pmDE is from UCAC2 (Cat. I/289)
+Hipparcos parallax
+Uncertainty in plx
+LiI direct integration equivalent width 
+LiI Gaussian fit equivalent width 
+[d] blended line 
+LiI Contamination; see Section 3.2 
+H{alpha} line features 
+Spectral Type
+Reference for SpType 
+Effective temperature from SpType
+Limit of Teff1 interval
+Alternative possible effective temperature
+The 6200/6210 line ratio 
+Spectral Type from line ratio
+Limit flag on Teff2
+Effective temperature for line ratio
+Adopted effective temperature
+[*] Teff from H-K color 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Telescope
+[*] HD 141569 added by CDS
+{\bf M} indicates stellar parameters and/or effective temperatures and lithium EW
+Object Name
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Date of observation
+UT hour of observation
+Integration time
+Signal-to-noise 
+Comment(s) 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable name (V170 to V181)
+Variable type (SX Phe or SRA)
+Right ascension (J2000.0)
+Declination (J2000.0)
+[0.08/142] Period
+Epoch of ephemeride
+[12/16] Mean V magnitude
+[10/16] Mean I magnitude
+[0.07/0.57] V band amplitude
+[0.08/0.41] I band amplitude
+Light curve
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable name
+Simbad Right ascension (J2000.0)
+Simbad Declination (J2000.0)
+Period, from Clement (http://www.astro.utoronto.ca/~cclement/cat/C1516p022) or table4
+Variable type, from Clement (http://www.astro.utoronto.ca/~cclement/cat/C1516p022) or table4
+Show the V and I light curves
+light Curves Plot
+Simbad name
+Record number assigned by the VizieR team. Should Not be used for identification.
+Arc designation ([HSP2006] Arc NN.a in Simbad)
+Broadhurst et al., 2005, Cat. J/ApJ/621/53 identification number
+Right ascension (J2000)
+Declination (J2000)
+Photometric redshift, this work
+rms uncertainty on zp
+Photometric redshift, Broadhurst et al. (2005, Cat. J/ApJ/621/53)
+Error on zbr (upper limit)
+Error on zbr (lower limit)
+Spectroscopic redshift from r_zs
+[def, ] Reference for zs 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy sequential number
+Right ascension (J2000)
+Declination (J2000)
+Total F775W AB magnitude 
+rms uncertainty on F775Wmag
+Sersic value of the profile
+rms uncertainty on Ser
+Circularized physical half light radius
+rms uncertainty on Re
+Galaxy ellipticity
+rms uncertainty on 1-b/a
+Galaxy position angle
+rms uncertainty on PA
+Estimated galaxy velocity dispersion 
+Upper value of galaxy velocity dispersion (1{sigma} range)
+Lower value of galaxy velocity dispersion (1{sigma} range)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name for sight line
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Spectroscopic redshift z^i^_gal_
+Angular distance
+Impact distance (r^i^_{rho}_; see eq. )
+The B band magnitude
+The B band luminosity relative to L*
+Cross-match with Tripp et al., 1998, Cat. J/ApJ/508/200
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name for sight line \linkRole{galaxies in the field }
+AGN redshift
+Number of Chandra grating observations
+Total exposure time
+Number of intervening galaxies along the sight line
+Number of intervening galaxies with reported B magnitudes. 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Positions from SIMBAD database (right ascension part)
+Positions from SIMBAD database (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference code
+Bibcode of the references
+Author(s) names and comments
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf P} indicates that photometry exists
+Cluster name
+Right Ascension J2000
+Declination J2000
+Flag for classification of the cluster (G1)
+[0.2/1400] Angular apparent diameter
+[25/15000] Distance from WEBDA
+[0/6] Colour excess in BV
+[6/10.1] Age (in log t)
+Source of mean pm determination, in refs.dat
+Mean proper motion of the cluster in RA
+Standard deviation in pmRA
+Mean proper motion of the cluster in Dec
+Standard deviation in pmDE
+[1/14341] Estimated number of cluster members {\em(this number may be an unrealistic overestimate in the case of clusters with large angular diameters)}
+Details from Kharchenko et al. 2014 (J/A+A/558/A53)
+Radial Velocity
+Error in Radial Velocity
+[0/472] Number of stars used to determine RV
+Source of mean RV determination, in refs.dat
+[-1.6/0.5] Metallicity
+Error in [Fe/H]
+[1/60] Number of stars used to determine [Fe/H]
+Trumpler type determined in the DSS inspection (concentration-brightness-richness-nebulosity)
+Find out what exists about this cluster in the WEBDA data-base
+Display the data available in Lyng\aa's catalogue
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf P} indicates that photometry exists
+Cluster name
+Right Ascension J2000
+Declination J2000
+Angular apparent diameter
+Reason of removing the cluster
+Reference used for deletion
+Record number assigned by the VizieR team. Should Not be used for identification.
+Objects associated with the reference
+Comments, including the bibcode
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster name
+[UBVRI ] Bands observed with CCD
+[UBVRI ] Bands observed with photomultipliers
+[UBV ] Bands observed with photographic plates
+Other name
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star identification number
+[ab ] Note on [HD2002] 
+Walker number (G1)
+Spectral type
+Limit flag on W(Ha)
+H{alpha} equivalent width
+Uncertainty flag on W(Ha)
+[abs ] abs: line seen in absorption
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star identification number ([HD2002] Star NNN)
+[abf] Flag on [HD2002] 
+Other identification numbers (G1)
+[104/186] The IH{alpha} number 
+Hour of Right Ascension (J2000) 
+Degree of Declination (J2000) 
+The V band magnitude
+The (B-V) color
+The (V-R) color
+The (V-I) color
+The R_c_ band magnitude
+The (R_c_-I_c_) color
+The Mauna Kea J band magnitude
+The (J-H) color
+The (H-K) color
+Limit flag on W(Ha) 
+The H{alpha} equivalent width in Angstroems
+Flag on W(Ha) 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Walker variable number (Cl* IC 5146 W VNN)
+[abc] Note on Walk 
+Star identification number
+B magnitude or upper value of B magnitude range 
+Lower value of B magnitude range
+V magnitude or upper value of V magnitude range 
+Lower value of V magnitude range
+R_c_ magnitude or upper value of R_c_ magnitude range 
+Lower value of R_c_ magnitude range
+I_c_ magnitude or upper value of I_c_ magnitude range 
+Lower value of I_c_ magnitude range
+Limit flag on W(Ha)
+H{alpha} equivalent width
+Uncertainty flag on W(Ha)
+Remarks
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star identification number ([HD2002] Star NNN)
+[abf] Flag on [HD2002] 
+Other identification numbers (G1)
+[104/186] The IH{alpha} number 
+Hour of Right Ascension (J2000) 
+Degree of Declination (J2000) 
+The V band magnitude
+The (B-V) color
+The (V-R) color
+The (V-I) color
+The R_c_ band magnitude
+The (R_c_-I_c_) color
+The Mauna Kea J band magnitude
+The (J-H) color
+The (H-K) color
+Limit flag on W(Ha) 
+The H{alpha} equivalent width in Angstroems
+Flag on W(Ha) 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name \linkRole{CaII+H{alpha} equivalent widths and results for this star }
+V magnitude
+Johnson-Cousins R-I colour index
+Effective temperature
+rms uncertainty on Teff
+MK spectral type
+Parallax
+rms uncertainty on plx
+Absolute V magnitude
+Stellar radius
+[1/46] First number of measurements
+[1/53] Second number of measurements
+HARPS signal-to-noise ratio at 500nm
+SOPHIE-HE signal-to-noise ratio at 500nm (G1)
+SOPHIE-HR signal-to-noise ratio at 500nm (G1)
+ELODIE signal-to-noise ratio at 500nm
+UVES signal-to-noise ratio at 400nm
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name
+First number of measurements
+Second number of measurements
+Third number of measurements
+HARPS CaII-H equivalent width
+rms uncertainty on WCaH1
+HARPS CaII-K equivalent width
+rms uncertainty on WCaK1
+HARPS H{alpha} equivalent width
+rms uncertainty on WHa1
+Limit flag on WCaH2
+SOPHIE CaII-H equivalent width
+rms uncertainty on WCaH2
+Limit flag on WCaK2
+SOPHIE CaII-K equivalent width
+rms uncertainty on WCaK2
+SOPHIE H{alpha} equivalent width
+rms uncertainty on WHa2
+ELODIE H{alpha} equivalent width
+rms uncertainty on WHa3
+UVES CaII-H equivalent width
+rms uncertainty on WCaH4
+UVES CaII-K equivalent width
+rms uncertainty on WCaK4
+UVES H{alpha} equivalent width
+rms uncertainty on WHa4
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name \linkRole{CaII+H{alpha} equivalent widths and results for this star }
+Metallicity
+V magnitude
+Johnson-Cousins R-I colour index
+Effective temperature
+rms uncertainty on Teff
+MK spectral type
+Parallax
+rms uncertainty on plx
+Absolute V magnitude
+Stellar radius
+[1/217] First number of measurements
+[1/68] Second number of measurements
+[1] Third number of measurements
+HARPS signal-to-noise ratio at 500nm
+SOPHIE signal-to-noise ratio at 500nm
+[HER] SOPHIE mode (HE or HR) (G1)
+ELODIE signal-to-noise ratio at 500nm
+UVES signal-to-noise ratio at 400nm
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name
+Limit flag on WCaII
+CaII equivalent width
+Limit flag on o_WCaII
+Number of measurements for WCaII
+Mt Wilson S_HK_ value (only for table5)
+Number of measurements for SHK
+H{alpha} equivalent width
+Number of measurements for WHa
+[] Uncertainty flag on o_WHa
+X-ray luminosity (10^+27^erg/s) from Hunsch et al. (1999, Cat. J/A+AS/135/319)
+Limit flag on FCaII
+CaII flux (10^+26^erg/s)
+Limit flag on P/sini
+Projected rotation period, P/sini
+[29848/24264172] LINEAR object identifier 
+[*] RR Lyrae star from the LINEAR Catalog of Variable Stars (Palaversa et al., 2013AJ....146..101P; Paper III)
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+[abc ] RR Lyrae type (ab or c=first overtone)
+[0.1130/1.1915] Period
+HJD-2400000 of maximum brightness
+[0.067/1.54] Amplitude 
+Best-fit LINEAR template maximum brightness 
+[32086/24262387] Best-fit LINEAR template number
+Extinction in the SDSS r band 
+[13.235/18.497] Flux-average magnitude 
+Heliocentric distance; see Section 3.2 
+[0/2] Oosterhoff class (1 or 2 for RRab stars and 0 for RRc stars)
+[0/7] Substructure halo group identifier (0 for stars not associated with a substructure)
+Display the data from the photometric SDSS-DR9 catalog within 1.5"
+Display the SDSS online data for this RR Lyrae star
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/7] Substructure halo group identifier 
+Right Ascension in decimal degrees (J2000) 
+Declination in decimal degrees (J2000) 
+[6/15.7] Heliocentric distance 
+Radius of the group 
+[10/35] Number of stars in the group
+Significance of a group 
+Globular cluster (M53/NGC 5053, M3, M13) or halo substructure (Virgo Stellar Stream) near the group 
+Ratio of Oosterhoff type II to Oosterhoff type I RRab stars in a group 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object sequential number, within the table 
+Name of object (JHHMMSS.ss+DDMMSS.s)
+[0.5/0.5] Redshift
+[0/98] Number of galaxies detected within 0.25Mpc
+[0/25] Galaxy density within 0.25Mpc
+[1/9.5] Average background galaxy density
+rms uncertainty on nbg
+[20.7/23.3] Apparent i-band magnitude threshold determined for the frame
+Sample(s) the source belongs to 
+Display the SDSS data for this galaxy
+Positions from Name (right ascension part)
+Positions from Name (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object sequential number, within the table 
+Name of object (JHHMMSS.ss+DDMMSS.s)
+[0.5/0.5] Redshift
+[0/98] Number of galaxies detected within 0.25Mpc
+[0/25] Galaxy density within 0.25Mpc
+[1/9.5] Average background galaxy density
+rms uncertainty on nbg
+[20.7/23.3] Apparent i-band magnitude threshold determined for the frame
+Sample(s) the source belongs to 
+Display SDSS-DR7 quasar catalog (Schneider et al., 1990, Cat. VII/260) data
+Display the SDSS data for this quasar
+Positions from Name (right ascension part)
+Positions from Name (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Dispersion measure
+Sampling time
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galactic longitude in range [0,360]{deg} (original table contains negative longitudes)
+Galactic latitude
+Beam number 
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+PSRJ designation (HHMM+DDMM)
+Right ascension (J2000)
+rms uncertainty on RA
+Declination (J2000)
+rms uncertainty on DE
+Galactic longitude
+Galactic latitude
+Beam number
+Radial angular distance, in units of beam radii
+Signal-to-noise ratio
+Flux density at 1.4GHz
+Pulse width at 50% of the peak
+Pulse width at 10% of the peak (only for high S/N profiles)
+Period
+rms uncertainty on Per
+Limit flag in dPer/dt
+Period derivative
+rms uncertainty on dPer/dt
+Epoch used for period determination, in MJD
+Number of Times of Arrival (TOAs) included in the timing solution
+Range covered, MJD of beginning
+Range covered, MJD of ending
+rms of the post-fit timing residuals
+Dispersion measure
+rms uncertainty on DM
+limit flag on logtauc
+log of characteristic age
+limit flag on logB
+log of surface dipole magnetic field strength
+limit flag on logdE/dt
+log of loss in rotational energy
+DM-derived distance using the Taylor  Cordes (1993ApJ...411..674T) model
+DM-derived distance using the Cordes  Lazio (2002, astro-ph/0207156) model
+Corresponding height of DTC
+Corresponding height of DCL
+Inferred radio luminosity at 1400MHz for DTC
+Inferred radio luminosity at 1400MHz for DCL
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy identification number
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+The Kron-Cousins R band magnitude as reported by Faint-Object Classification Analysis System
+The 1{sigma} error in Rmag
+The Fabricant et al. (1989ApJ...336...77F) r band isophotal magnitude
+The radial velocity 
+The 1{sigma} error in cz
+Fabricant et al. (1989ApJ...336...77F) identification number
+Record number assigned by the VizieR team. Should Not be used for identification.
+Radio Component, from Roettiger et al. 1993ApJ...407L..53R and Bridle et al. 1979AA....80..201B
+Right ascension (J2000)
+Declination (J2000)
+Galaxy optical counterpart number
+Group membership of the optical counterpart if one is known
+Radial velocity of the galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Molecule identifier
+Transition
+{\bf S}outhern or {\bf N}orthern infrared dark clouds (IRDCs)
+Identifier of the InfraRed Dark Cloud (IRDC)
+[0.02/25] Integrated antenna temperature ({int}T_A_dv) 
+[n] Indicates an absence of data
+[0/0.4] Uncertainty in TAint 
+[-61/80] Local standard of rest velocity (V_lsr_) 
+[0/2] Uncertainty in Vlsr 
+[0.4/6.7] Line width ({Delta}V) 
+[0/2.83] Uncertainty in DelV 
+[0.01/8.1] Antenna temperature (T_A_) 
+[0.01/0.12] The 1{sigma} rms 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Identifier of the infrared dark cloud (IRDC)
+Hour of Right Ascenion (J2000)
+Degree of Declination (J2000)
+[1/4.8] Distance
+Second value for distance
+[13/16] Kinetic distance 
+[17/33] Dust temperature
+[1.1/14.2] H_2_ column density 
+[ab] Source of NH2 
+Mid-infrared category (A, M, Q, SiO) (G1)
+Reference 
+Number of mokecular lines observed for this cloud
+[n/a] 'n/a' indicates absence of CO abundance
+CO abundance (a(b)=a*10^b^) (G2)
+HNCO abundance (a(b)=a*10^b^) 
+[n/a] 'n/a' indicates absence of H2CO abundance
+H_2_CO abundance (a(b)=a*10^b^) 
+CH_3_OH abundance (a(b)=a*10^b^) 
+Uncertainty in CH_3_OH (a(b)=a*10^b^)
+[cde] Estimate source of CH_3_OH 
+[25/43] CH_3_OH excitation temperature
+Uncertainty in Tex1
+CH_3_CCH abundance (a(b)=a*10^b^) 
+Uncertainty in CH_3_CCH (a(b)=a*10^b^)
+[27/42] CH_3_CCH excitation temperature
+[1/13] Uncertainty in Tex2
+CH_3_CHO abundance (a(b)=a*10^b^) 
+Uncertainty in CH_3_CHO
+[23] CH_3_CHO excitation temperature
+Uncertainty in Tex3
+Upper limit flag in CH_3_OCH_3_
+CH_3_OCH_3_ abundance (a(b)=a*10^b^) 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Identifier of the InfraRed Dark Cloud (IRDC)
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+[2.1/5.3] Distance 
+[c] "c" denotes a distance from Saito et al. (2001PASJ...53.1037S)
+[11/49] Kinetic temperature 
+[0.3/5.2] H_2_ column density 
+Mid-infrared category (A, M, Q, SiO) (G1)
+Number of mokecular lines observed for this cloud
+CO abundance (a(b)=a*10^b^) (G2)
+[n/a] 'n/a' indicates absence of CO abundance
+CO abundance (a(b)=a*10^b^) 
+HNCO abundance (a(b)=a*10^b^) 
+H_2_CO abundance (a(b)=a*10^b^) 
+CH_3_OH abundance (a(b)=a*10^b^) 
+[g] 'g' indicates abundance calculated based on CH_3_OH 5_1,5_4_1,4_ E transition
+[12/53] CH_3_OH excitation temperature
+CH_3_CCH abundance (a(b)=a*10^b^) 
+[17/38] CH_3_CCH excitation temperature
+Display the data from Vasyunina et al. 2011 (cat. J/A+A/527/A88)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name, JHHMMSS.s+DDMMSS
+[1/7] Ultra Compact Dwarf galaxy number [PDG2001] UCD N in simbad
+Right ascension (J2000.0)
+Declination (J2000.0)
+Heliocentric radial velocity
+[ab] Note on cz 
+V magnitude
+B-V colour index
+V-Ic colour index
+V peak Surface brightness
+B peak Surface brightness
+Ic peak Surface brightness
+[c] Note on mu.Ic 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Fornax Cluster Catalogue number
+Right ascension (J2000)
+Declination (J2000)
+Best V magnitude
+V peak surface brightness
+Best B magnitude
+B peak surface brightness
+Best I magnitude
+I peak surface brightness
+Cousins B-V colour index
+Cousins V-Ic colour index
+T morphological type
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf 4} for IRS 1-3 field, {\bf 5} for IRS 9 field
+Right ascension (J2000)
+Declination (J2000)
+J magnitude (only in table4)
+rms uncertainty on Jmag (for IRS 1-3 field)
+H magnitude
+rms uncertainty on Hmag
+K magnitude
+rms uncertainty on Kmag
+YSO classification (for IRS 1-3 field)
+X-ray IAU designation (HHMMSS.ss+DDMMSS.s)
+Record number assigned by the VizieR team. Should Not be used for identification.
+IAU designation (HHMMSS.ss+DDMMSS.s, J2000) \linkRole{near-IR photometry}
+Right ascension (J2000)
+Declination (J2000)
+[3.8/88] Net counts extracted (0.5-8keV)
+[1.9/5] Background-corrected median photon energy (total band)
+[21.2/23.2] H column density calculated using XSPEC
+[0.5/9.6] Plasma temperature calculated using XSPEC
+Apparent hard band luminosity
+Apparent total band luminosity
+Intrinsic hard band luminosity
+Intrinsic total band luminosity
+Intrinsic hard band luminosity calculated using Xphot
+Intrinsic total band luminosity calculated using Xphot
+[21.1/23.5] H column density calculated using Xphot
+Record number assigned by the VizieR team. Should Not be used for identification.
+[822/21890] Internal SDSS-II SN candidate designation
+[-58.2/58.8] Right Ascension (J2000)
+[-1.3/1.3] Declination (J2000)
+[0.01/0.7] Photometric redshift
+The 1{sigma} upper photometric redshift
+The 1{sigma} lower photometric redshift
+[-0.94/5] V-band extinction
+The 1{sigma} upper V-band extinction limit
+The 1{sigma} lower V-band extinction limit
+[0.6/1.77] Phillips {Delta}m_15_(B) (G1)
+The 1{sigma} upper Phillips {Delta}m_15_(B) limit
+The 1{sigma} lower Phillips {Delta}m_15_(B) limit
+Bayesian SN Ia probability 
+[0.51/1.6] Best-fit reduced chi-squared
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+[703/22006] Internal SDSS-II SN candidate designation
+[-53/58.7] Right ascension (J2000)
+[-1.3/1.3] Declination (J2000)
+[0.10/0.50] Spectroscopic redshift
+[0/0.01] Uncertainty in z
+[-0.68/2.37] V-band extinction
+The 1{sigma} upper V-band extinction limit
+The 1{sigma} lower V-band extinction limit
+[0.61/1.74] Phillips {Delta}m_15_(B) (G1)
+The 1{sigma} upper Phillips {Delta}m_15_(B) limit
+The 1{sigma} lower Phillips {Delta}m_15_(B) limit
+Bayesian SN Ia probability 
+[0.74/1.8] Best-fit reduced chi-squared
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Sequential number
+Star name
+MK spectral type
+Effective temperature
+Surface gravity
+Metallicity
+Reference author's name for adopted values
+Reference Bibcode for adopted values
+Reference comments for adopted values
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+KIC number (Cat. V/133)
+[*] New atmopsheric parameters 
+ROTFIF Effective temperature
+rms uncertainty on Teff1
+ROTFIF Surface gravity
+rms uncertainty on logg1
+ROTFIF Metallicity
+rms uncertainty on [Fe/H]1
+ROTFIF Rotational velocity
+rms uncertainty on vsini
+MK spectral type
+ARES+MOOG Effective temperature
+rms uncertainty on Teff2
+ARES+MOOG Surface gravity
+rms uncertainty on logg2
+ARES+MOOG Metallicity
+rms uncertainty on [Fe/H]2
+ARES+MOOG Microturbulent velocity {xi}
+rms uncertainty on vturb
+Instrument
+Type of variability 
+References for Var 
+Position form KIC (2009, Cat. V/133) catalog (right ascension part)
+Position form KIC (2009, Cat. V/133) catalog (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS name (JHHMMSS.ss+DDMMSS.s)
+Corrected SDSS name, as in SDSS-DR7 or -DR8 \linkRole{details from table1 }
+[44.3/46.41] Log luminosity at 3000{AA} 
+[891/14316] FWHM of broad MgII 2800{AA} 
+Limit flag on logFeII
+[-14.34/-12.3] Log of UV FeII emission 
+Limit flag on W(FeII)
+Rest-frame UV FeII equivalent width 
+Log of narrow MgII 2800{AA} line flux 
+Log of broad MgII 2800{AA} line flux 
+Rest-frame MgII 2800{AA} equivalent width 
+Positions from SDSS name (right ascension part)
+Positions from SDSS name (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf U} indicates that the AGN belongs to the UV subsample (table 2)
+SDSS name (JHHMMSS.ss+DDMMSS.s)
+Corrected SDSS name, as in SDSS-DR7 or -DR8
+[0.02/0.8] SDSS redshift
+[42.83/46.09] Log luminosity at 5100{AA} 
+[-2.5/0.88] Local continuum slope {beta} 
+[999/19251] FWHM of broad H{beta} 
+Limit flag on logFeIIn
+Log of narrow FeII 4570{AA} line flux 
+Limit flag on W(FeIIn)
+Rest-frame narrow FeII 4570{AA} equivalent width 
+Limit flag on logFeIIb
+Log of broad FeII 4570{AA} line flux 
+Limit flag on W(FeIIb)
+Rest-frame broad FeII 4570{AA} equivalent width 
+Log of narrow H{beta} line flux 
+Log of broad H{beta} line flux 
+Rest-frame broad H{beta} equivalent width 
+Limit flag on logOIII
+Log of [OIII] 5007{AA} line flux 
+Limit flag on W(OIII)
+Rest-frame [OIII] 5007{AA} EW 
+Display the SDSS-DR4, -DR7, DR8 photometric catalogs within 1"
+Display the SDSS online data for this AGN
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Positions from SDSS name (right ascension part)
+Positions from SDSS name (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension (J2000.0) (G1)
+Declination (J2000.0) (G1)
+Heliocentric radial velocity 
+Reference and notes for cz 
+rms uncertainty on cz
+Cousins R magnitude, calculated for the Gunn-Oke aperture, with an error of ~0.05mag
+Flux density at 1.4GHz
+rms uncertainty on S1.4GHz
+Separation
+Classification 
+Notes 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension (J2000.0) (G1)
+Declination (J2000.0) (G1)
+Heliocentric radial velocity 
+rms uncertainty on cz
+Cousins R magnitude, calculated for the Gunn-Oke aperture, with an error of ~0.05mag
+Radial distance 
+Flux density at 1.4GHz
+rms uncertainty on S1.4GHz
+Separation betwen optical and radio emission
+[c] Note on Sep 
+Classification 
+[b] Note on Class 
+Morphology
+Note on Morph 
+Record number assigned by the VizieR team. Should Not be used for identification.
+[2/3] 2 or 3 {sigma} detection
+Line of sight
+Target Name
+Galactic longitude
+Galactic latitude
+Exposure time is night only
+Spectral binning in 0.013{AA}*pixel
+Intensity (in 10^3^LU unit)
+rms uncertainty on Int
+Heliocentric wavelength
+rms uncertainty on lambda
+Gaussian FWHM values include the smoothing imparted by the instrument optics 
+rms uncertainty on FWHM
+LSR velocity
+rms uncertainty on VLSR
+Extinction from Schlegel et al. (1998ApJ...500..525S)
+ROSAT 1/4keV emission in RU unit from Snowden et al. (1997ApJ...485..125S)
+rms uncertainty on SXR
+H{alpha} intensity integrated over the velocity range 80 to +80km/s (in 10^3^LU unit) (G1)
+rms uncertainty on IntHa
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Line of sight \linkRole{Detections or upper limits in this direction }
+FUSE observation identification(s)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Line of sight
+Target Name
+Galactic longitude
+Galactic latitude
+Exposure time is night only
+Intensity 3{sigma} upper limit (in 10^3^LU unit)
+Extinction from Schlegel et al. (1998ApJ...500..525S)
+ROSAT 1/4keV emission in RU unit from Snowden et al. (1997ApJ...485..125S)
+rms uncertainty on SXR
+H{alpha} intensity integrated over the velocity range 80 to +80km/s (in 10^3^LU unit) (G1)
+rms uncertainty on IntHa
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Identification of the MIPSGAL mosaic field (tile)
+Applied offset in Right Ascension {Delta}R.A
+Applied offset in Declination {Delta}Decl
+Final rms residual in Right Ascension {sigma}R.A
+Final rms residual in Declination {sigma}Decl
+Record number assigned by the VizieR team. Should Not be used for identification.
+MIPSGAL name
+Galactic longitude
+Galactic latitude
+Right Ascension, in decimal degrees (J2000)
+Declination, in decimal degrees (J2000)
+[0.3/9659] 24{mu}m flux density \linkRole{{\fg{red4}in red when flag(s) set}}
+[0.08/951] 1{sigma} uncertainty in S24
+[-0.3/11] 24{mu}m magnitude (Vega) \linkRole{{\fg{red4}in red when flag(s) set}}
+[0.02/0.33] 1{sigma} uncertainty in [24]
+2MASS name (HHMMSSss+DDMMSSs, Cat. II/246)
+[0.1/522464] 2MASS J-band flux density
+1{sigma} uncertainty in SJ
+[0.2/756530] 2MASS H-band flux density
+1{sigma} uncertainty in SH
+[0.4/643861] 2MASS Ks-band flux density
+1{sigma} uncertainty in SK
+GLIMPSE name (GLLL.llll+BB.bbbb, Cat. II/293)
+[0.1/13445] Spitzer/IRAC 3.6{mu}m flux density
+1{sigma} uncertainty in S3.6
+[0.1/21328] Spitzer/IRAC 4.5{mu}m flux density
+1{sigma} uncertainty in S4.5
+[0.5/30754] Spitzer/IRAC 5.8{mu}m flux density
+1{sigma} uncertainty in S5.8
+[0.3/6019] Spitzer/IRAC 8.0{mu}m flux density
+WISE name (JHHMMSS.ss+DDMMSS.s, Cat. I/311)
+[0.04/49559] WISE/W1 (3.35{mu}m) flux density
+1{sigma} uncertainty in S3.4
+[0.03/50979] WISE/W2 (4.6{mu}m) flux density
+1{sigma} uncertainty in S4.6
+[0.2/167766] WISE/W3 (11.6{mu}m) flux density
+1{sigma} uncertainty in S12
+[1/41761] WISE/W4 (22.1{mu}m) flux density
+1{sigma} uncertainty in S22
+[1.2/17.6] 2MASS J-band magnitude (Vega)
+1{sigma} uncertainty in Jmag (Vega)
+[0.2/16.5] 2MASS H band magnitude (Vega)
+1{sigma} uncertainty in Hmag (Vega)
+[-0.05/15.4] 2MASS Ks band magnitude (Vega)
+1{sigma} uncertainty in Kmag (Vega)
+[3/16] Spitzer/IRAC 3.6{mu}m magnitude (Vega)
+1{sigma} uncertainty in [3.6]
+[2/16] Spitzer/IRAC 4.5{mu}m magnitude (Vega)
+1{sigma} uncertainty in [4.5]
+[1/14] Spitzer/IRAC 5.8{mu}m magnitude (Vega)
+1{sigma} uncertainty in [5.8]
+[2/14] Spitzer/IRAC 8.0{mu}m magnitude (Vega)
+1{sigma} uncertainty in [8.0]
+[1.9/17.1] WISE/W1 (3.35um) magnitude (Vega)
+1{sigma} uncertainty in W1mag (Vega)
+[1.3/17] WISE/W2 (4.6{mu}m) magnitude (Vega)
+1{sigma} uncertainty in W2mag (Vega)
+[-2/13] WISE/W3 (11.6um) magnitude (Vega)
+1{sigma} uncertainty in W3mag (Vega)
+[-1.8/9.6] WISE/W4 (22.1um) magnitude (Vega)
+1{sigma} uncertainty in W4mag (Vega)
+[0.3/221] Nearest neighbor distance
+[0/9] Number of GLIMPSE sources within 6.35'' aperture
+[0/8] Number of 2MASS sources within 6.35'' aperture
+[0/3] Number of WISE sources within 6.35'' aperture
+[-1.3/15.1] Empirically measured Full Width at Half Maximum of the MIPSGAL source
+[4.9/1926] Background flux density measured in the sky annulus
+[1.2/5799] 90% differential completeness limit (in mJy)
+[0.25/9.5] 90% differential completeness limit, VEGAMAG (magnitude at which 90% of the sources are successfully recovered)
+[0/1] Edge flag, 0 for catalog sources 
+[0/3] Confusion flag, 0 for catalog sources 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Flag on Region
+[1/3] Number of the region
+Conditions of confusion 
+Number of sources without GLIMPSE counterparts
+Number of sources with GLIMPSE counterparts
+[0.09/0.6] Nwo/Nw ratio
+Record number assigned by the VizieR team. Should Not be used for identification.
+MIPSGAL name
+Galactic longitude
+Galactic latitude
+Right Ascension, in decimal degrees (J2000)
+Declination, in decimal degrees (J2000)
+[0.3/9659] 24{mu}m flux density
+[0.08/951] 1{sigma} uncertainty in S24
+[-0.3/11] 24{mu}m magnitude (Vega)
+[0.02/0.33] 1{sigma} uncertainty in [24]
+2MASS name (HHMMSSss+DDMMSSs, Cat. II/246)
+[0.1/522464] 2MASS J-band flux density
+1{sigma} uncertainty in SJ
+[0.2/756530] 2MASS H-band flux density
+1{sigma} uncertainty in SH
+[0.4/643861] 2MASS Ks-band flux density
+1{sigma} uncertainty in SK
+GLIMPSE name (GLLL.llll+BB.bbbb, Cat. II/293)
+[0.1/13445] Spitzer/IRAC 3.6{mu}m flux density
+1{sigma} uncertainty in S3.6
+[0.1/21328] Spitzer/IRAC 4.5{mu}m flux density
+1{sigma} uncertainty in S4.5
+[0.5/30754] Spitzer/IRAC 5.8{mu}m flux density
+1{sigma} uncertainty in S5.8
+[0.3/6019] Spitzer/IRAC 8.0{mu}m flux density
+WISE name (JHHMMSS.ss+DDMMSS.s, Cat. I/311)
+[0.04/49559] WISE/W1 (3.35{mu}m) flux density
+1{sigma} uncertainty in S3.4
+[0.03/50979] WISE/W2 (4.6{mu}m) flux density
+1{sigma} uncertainty in S4.6
+[0.2/167766] WISE/W3 (11.6{mu}m) flux density
+1{sigma} uncertainty in S12
+[1/41761] WISE/W4 (22.1{mu}m) flux density
+1{sigma} uncertainty in S22
+[1.2/17.6] 2MASS J-band magnitude (Vega)
+1{sigma} uncertainty in Jmag (Vega)
+[0.2/16.5] 2MASS H band magnitude (Vega)
+1{sigma} uncertainty in Hmag (Vega)
+[-0.05/15.4] 2MASS Ks band magnitude (Vega)
+1{sigma} uncertainty in Kmag (Vega)
+[3/16] Spitzer/IRAC 3.6{mu}m magnitude (Vega)
+1{sigma} uncertainty in [3.6]
+[2/16] Spitzer/IRAC 4.5{mu}m magnitude (Vega)
+1{sigma} uncertainty in [4.5]
+[1/14] Spitzer/IRAC 5.8{mu}m magnitude (Vega)
+1{sigma} uncertainty in [5.8]
+[2/14] Spitzer/IRAC 8.0{mu}m magnitude (Vega)
+1{sigma} uncertainty in [8.0]
+[1.9/17.1] WISE/W1 (3.35um) magnitude (Vega)
+1{sigma} uncertainty in W1mag (Vega)
+[1.3/17] WISE/W2 (4.6{mu}m) magnitude (Vega)
+1{sigma} uncertainty in W2mag (Vega)
+[-2/13] WISE/W3 (11.6um) magnitude (Vega)
+1{sigma} uncertainty in W3mag (Vega)
+[-1.8/9.6] WISE/W4 (22.1um) magnitude (Vega)
+1{sigma} uncertainty in W4mag (Vega)
+[0.3/221] Nearest neighbor distance
+[0/9] Number of GLIMPSE sources within 6.35'' aperture
+[0/8] Number of 2MASS sources within 6.35'' aperture
+[0/3] Number of WISE sources within 6.35'' aperture
+[-1.3/15.1] Empirically measured Full Width at Half Maximum of the MIPSGAL source
+[4.9/1926] Background flux density measured in the sky annulus
+[1.2/5799] 90% differential completeness limit (in mJy)
+[0.25/9.5] 90% differential completeness limit, VEGAMAG (magnitude at which 90% of the sources are successfully recovered)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Display the members in this Group
+Group name 
+Right ascension of the group optical projected centroid in J2000
+Declination of the group optical projected centroid in J2000
+Number of group members 
+Mean heliocentric velocity 
+rms uncertainty on HRV
+Line-of-sight velocity dispersion
+Error on sigma (upper limit)
+Error on sigma (lower limit)
+X-ray luminosity 
+Sampling radius for the photometry
+Number of members within rsample  
+Corrected number density of galaxies 
+Dwarf-to-giant ratio 
+rms uncertainty on D/G0.4
+Record number assigned by the VizieR team. Should Not be used for identification.
+Display the parameters of the Group
+Galaxy name
+Right Ascension (J2000)
+Declination (J2000)
+Heliocentric radial velocity from NED
+Uncertainty in HRV
+Flag on the type of velocity measurement 
+Magnitude in the R band
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field name of the data set from which the light curve is created (NNNN-NNNN) \linkRole{field data }
+Star right ascension (J2000)
+Star declination (J2000)
+[14/57] Number of data points of the light curve used in the r-band
+Mean brightness of the light curve in rmag (AB system)
+Standard deviation on rmag
+[0.02/0.5] Threshold at the brightness of the star to accept it as variable by means of the standard deviation in r-band
+Amplitude of the light curve in r-band
+[0.07/2.0] Threshold at the brightness of the star to accept it as variable by means of the amplitude in r-band
+Stetson J-Index in r-band
+[14/42] Number of data points of the light curve used in the i-band
+Mean brightness of the light curve in imag (AB system)
+Standard deviation on imag
+[0.02/0.5] Threshold at the brightness of the star to accept it as variable by means of the standard deviation in i-band
+Amplitude of the light curve in imag
+[0.07/2.0] Threshold at the brightness of the star to accept it as variable by means of the amplitude in i-band
+Stetson J-index in i-band
+Record number assigned by the VizieR team. Should Not be used for identification.
+GDS field name (NNNN-NNNN) \linkRole{stars data }
+Right ascension (J2000)
+Declination (J2000)
+Number of observations
+First night observation date
+Las2 night observation date
+Number of stars used for the analysis in r-band
+[70/238] Number of stars identified to be variable in r-band
+Number of stars used for the analysis in i-band
+[91/248] Number of stars identified to be variable in i-band
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source number
+Field number
+Right ascension (J2000)
+Declination (J2000)
+Significance of detection in Hard band in equivalent Gaussian {sigma}
+[*] *=99% significance of detection in H band
+Limit flag on CR
+Count Rate in Hard (0.4-2keV) band
+rms uncertainty on CRH
+[ST] Notes 
+Significance of detection in Soft band in equivalent Gaussian {sigma}
+Count Rate in Soft (0.1-0.4keV) band
+rms uncertainty on CRS
+Limit flag on HR
+Hardness ratio, HR=(H-S)/(H+S)
+rms uncertainty on HR
+Record number assigned by the VizieR team. Should Not be used for identification.
+Number
+Letter running in alphabetical order with separation from X-ray source position
+Optical right ascension (J2000.0)
+Optical declination (J2000.0)
+Separation from X-ray source position
+[UTS2] Source of position and optical photometry 
+Optical magnitude (V from Tycho2 or R from USNO-A2.0)
+Optical colour (B-V from Tycho2 or B-R from USNO-A2.0)
+Limit flag on logFX/Fopt
+X-ray to optical flux ratio (logFX/FV from Tycho2 or logFX/FR from USNO-A2.0)
+[CENU] Classification from logFX/Fopt versus colour diagram 
+Limit flag on Jmag
+J magnitude
+Limit flag on J-H
+J-H colour index
+rms uncertainty on J-H
+Limit flag on H-Ks
+H-Ks colour index
+rms uncertainty on H-Ks
+[YN] Position on a near-IR two-colour diagram is consistent with an MS star flag
+Spectral type 
+Notes (luminosity units are erg/s=10^-7^W)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference number
+Run number
+Observation date
+Field centre right ascension (J2000)
+Field centre declination (J2000)
+Average seeing
+Airmass
+Number of targets
+Number of new targets observed
+Record number assigned by the VizieR team. Should Not be used for identification.
+[*] * indicates a non-member
+Source name (N-N-NNNN) (G1)
+Period (G1)
+V magnitude 
+I_J_ magnitude 
+CIT K magnitude 
+[*] Note on Kmag 
+Signal-to-noise ratio
+Radial velocity
+rms uncertainty on RV
+Limit flag on vsini
+Rotational velocity
+rms uncertainty on vsini
+Run number(s)
+Luminosity
+Turnover time
+Rossby number
+CaT (8488{AA}) equivalent width
+rms uncertainty on W8488
+CaT (8542{AA}) equivalent width
+rms uncertainty on W8542
+Chromospheric activity index of CaT (8488{AA})
+rms uncertainty on logR'1
+Chromospheric activity index of CaT (8542{AA})
+rms uncertainty on logR'2
+Right ascension (J2000) (G1)
+Declination (J2000) (G1)
+Record number assigned by the VizieR team. Should Not be used for identification.
+6dF designation (JHHMMSSs-DDMMSS) (in tablea1 only)
+Right ascension (J2000)
+Declination (J2000)
+Recession velocity
+2MASS K magnitude
+Absolute K magnitudes
+B magnitude (from HyperLEDA)
+Absolute B magnitude
+T type (from HyperLEDA)
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Other name
+Record number assigned by the VizieR team. Should Not be used for identification.
+Other name
+Right ascension (J2000)
+Declination (J2000)
+Recession velocity
+2MASS K magnitude
+Absolute K magnitudes
+B magnitude (from HyperLEDA)
+Absolute B magnitude
+T type (from HyperLEDA)
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name
+V magnitude
+B-V colour index
+U-B colour index
+V-R colour index
+V-I colour index
+V-J colour index
+V-K colour index
+Galactic colour excess
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[123] Sample 
+Star name
+C abundance (H=12)
+N abundance (H=12)
+Metallicity
+Abundance, C/N
+Reference for abundances
+[Yes/No] s-process element rich star 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/235] C^18^O-Ori Core identification
+[5] Hour of Right Ascension (J2000)
+[4/5] Degree of Declination (J2000)
+[5.6/12.7] LSR Velocity V_LSR_
+[0.7/6.3] Peak Antenna Temperature T_peak_
+[1/2.2] 1.1mm Core aspect ratio; a/b
+[0.1/0.4] Core radius (distance D=400pc)
+[0.3/1.4] Velocity width in FWHM dV_core_
+[0.1/0.6] 1D velocity dispersion {sigma} within the core
+[1/62] LTE Mass M_LTE_
+[3/102] Virial Mass M_VIR_
+[0.4/20.1] Ratio virial mass/LTE mass (R_vir_)
+[0.2/55.6] Jeans Mass M_J_
+[0.1/0.8] Maximum Mass M_{Phi}_
+[0.1/20.8] Critical Mass Ratio R_c_
+[0.1/1.8] Mean gas density of the C^18^O core
+Cloud Region (see Figure 1)
+[A-C] C^18^O to 1.1mm core association (G1)
+[1/619] Name of associated AzTEC-Ori mm core (Table 2)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/619] AzTEC-Ori Core identification
+[5] Hour of Right Ascension (J2000)
+[4/6] Degree of Declination (J2000)
+[0.05/6] Peak 1.1mm flux density in Jy per beam
+[1/3] 1.1mm Core aspect ratio (elongation): a/b
+[0.01/0.2] 1.1mm Core radius 
+[0.6/117] 1.1mm Core mass 
+[0.3/915] 1.1mm Mean number density of the core
+[ABD] 1.1mm to C18O core association (G1)
+Name of associated C18O-Ori core(s) (Table 4)
+Source notes 
+Number of sources within 30" from Nutter et al. 2007, J/MNRAS/374/1413 and Ikeda et al. 2007 J/ApJ/665/1194
+Number of PMS/protostar sources within 16" from Megeath et al. 2012, J/AJ/144/192
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name 
+X coordinate (G1)
+Y coordinate (G1)
+V band magnitude
+(B-V) color index
+(U-B) color index
+(B-V) color excess
+Position computed from a comparison with catalog I/289 ({sigma}=0.43'') (right ascension part)
+Position computed from a comparison with catalog I/289 ({sigma}=0.43'') (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name
+X coordinate (G1)
+Y coordinate (G1)
+V band magnitude
+(B-V) color index
+(U-B) color index
+(V-I) color index
+Error in Vmag
+Error in B-V
+Error in U-B
+Error in V-I
+Position computed from a comparison with catalog I/289 ({sigma}=0.27'') (right ascension part)
+Position computed from a comparison with catalog I/289 ({sigma}=0.27'') (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS object designation (HHMMSS.ss+DDMMSS.s)
+Number of spectra for this QAL
+Identification of system when belongs to a variable NAL system (table3)
+Right ascension (J2000)
+Declination (J2000)
+[0.3/4.5] Quasar redshift (Hewett  Wild 2010, Cat. J/MNRAS/405/2302)
+i[0.3/3.7] Absorption system redshift
+Absorption system velocity {beta}=v/c (in quasar rest frame)
+SDSS spectroscopic plate number
+SDSS Modified Julian Date (MJD) of observation
+SDSS spectroscopic fiber number
+Absorption system confidence grade 
+Number of lines identified in the spectrum
+{\bf *} indicate an incomplete list of lines
+Detected absorption lines 
+List all lines detected
+Display the SDSS data for this quasar
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/33] System number index
+SDSS object designation (HHMMSS.ss+DDMMSS.s)
+Number of elements in this NAL system
+Right ascension (J2000)
+Declination (J2000)
+[1.2/3.9] Quasar redshift (Hewett  Wild 2010, Cat. J/MNRAS/405/2302)
+[0.6/3.0] Narrow Absorption Line (NAL) system redshift
+NAL system velocity ({beta}=v/c in quasar rest frame)
+SDSS plate number - first observation
+SDSS fibre number - first observation
+SDSS MJD - first observation
+SDSS plate number - second observation
+SDSS fibre number - second observation
+SDSS MJD - second observation
+Time between observations (quasar rest frame)
+Absorption line ion
+Absorption line rest wavelength {lambda}_0_
+Equivalent width - first observation
+Equivalent width error - first observation
+Absorption line flag - first observation 
+Equivalent width - second observation
+Equivalent width error - second observation
+Absorption line flag - second observation 
+Display the SDSS data for this quasar
+Display the SDSS data for this quasar
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Smithsonian Hectospec Lensing Survey (SHELS) identifier (G1)
+SDSS identifier
+[9] Hour of Right Ascension (J2000)
+[28/31] Degree of Declination (J2000)
+[12.5/21] The R band total magnitude 
+Source of Rmag (SDSS or DLS) 
+Redshift 
+Source of z (MMT or SDSS) 
+[8/150] Redshift uncertainty
+[18.7/25.6] Observed mean R-band surface brightness (G2)
+Display the photometric SDSS-DR7 catalog (Cat. II/294)
+Display the SDSS online data for this object
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+Smithsonian Hectospec Lensing Survey (SHELS) identifier (G1)
+SDSS identifier
+[9] Hour of Right Ascension (J2000)
+[28/31] Degree of Declination (J2000)
+[14.7484/20.5993] The R band magnitude
+[18.7406/25.9514] Mean R band surface brightness (G2)
+[-0.08/1.064] (g-r) color index in the SDSS color
+Display the photometric SDSS-DR7 catalog (Cat. II/294)
+Display the SDSS online data for this object
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+Kepler Input Catalog identifier (Cat. V/133)
+[3197/6499] Star effective temperature
+[3.5/5.4] Star surface gravity (log)
+[0.2/1.3] Star mass 
+[0.2/70] Rotation period
+[0/51] Error in Prot
+Period flag 
+[187/1520000] Average variability amplitude within 1 period
+[0.01/1.82] Local Peak Height of the autocorrelation function (ACF)
+[0/1] Assigned weight 
+T_eff_ and log(g) source flag 
+Positions from Kepler Input Catalog (Cat. V/133) (right ascension part)
+Positions from Kepler Input Catalog (Cat. V/133) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Kepler Input Catalog identifier (Cat. V/133)
+[3197/6499] Star effective temperature
+[3.5/5.4] Star surface gravity (log)
+[0.2/1.3] Star mass 
+[0.2/70] Rotation period
+[0/51] Error in Prot
+[0.01/1.82] Local Peak Height of the autocorrelation function (ACF)
+[0/1] Assigned weight 
+T_eff_ and log(g) source flag 
+Positions from Kepler Input Catalog (Cat. V/133) (right ascension part)
+Positions from Kepler Input Catalog (Cat. V/133) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Species
+Laboratory wavelength
+Observed wavelength
+Doppler velocity
+rms uncertainty on Vel
+Equivalent width
+rms uncertainty on EW
+Record number assigned by the VizieR team. Should Not be used for identification.
+WD number
+Coadded spectrum in "\begin{tex}\vFile{J/ApJS/119/207/./sp}{sp}\end{tex}" subdirectory
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference number
+BibCode
+Author's name
+Comments
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Mean Doppler velocity
+rms uncertainty on Vel
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Species
+Laboratory wavelength
+Observed wavelength
+Doppler velocity
+rms uncertainty on Vel
+Equivalent width
+rms uncertainty on EW
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD designation
+SWP Number
+[LS] Aperture (Large or Small)
+Observation date
+Exposure length
+Continuum data number level
+Background data number level
+Wavelength shift 
+Observer name
+[BWZ NS] Status of the spectrum 
+Details (and spectrum) of this IUE observation
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD number
+Distance
+Galactic longitude
+Galactic latitude
+Velocity
+[abc] Note on Vel 
+rms uncertainty on Vel
+Limit flag on logNH
+Hydrogen column density
+rms uncertainty on logNH
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD designation
+Other Name
+White dwarf type
+V magnitude
+Limit flag on Teff
+Effective temperature
+Surface gravity
+References
+Available IUE NEWSIPS data for this white dwarf
+details from the McCook and Sion Catalog of White Dwarfs (III/235)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Species
+Laboratory wavelength
+Observed wavelength
+Doppler velocity
+rms uncertainty on Vel
+Equivalent width
+rms uncertainty on EW
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Mean Doppler velocity
+rms uncertainty on Vel
+Record number assigned by the VizieR team. Should Not be used for identification.
+[H He] H or He-rich degenerate
+WD Number
+Mean Doppler velocity
+rms uncertainty on Vel
+Record number assigned by the VizieR team. Should Not be used for identification.
+SLACS SDSS name (JHHMM+DDMM)
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Foreground source redshift
+Background source redshift
+Velocity dispersion
+rms uncertainty on sigma
+[ABX] Grade (A: confirmed lenses; B: probable lenses; X: unlikely lenses)
+Display the SDSS data for this object
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+SLACS SDSS name (JHHMM+DDMM)
+Lens redshift
+Source redshift
+Lensing galaxy velocity dispersion
+rms uncertainty on sigma
+Morphological type
+[c] c: the lens galaxy has at least one close companion galaxy
+HST/ACS B-band magnitude (F435W)
+Effective radius (measured at the intermediate axis) in B-band
+HST V-band magnitude (F555W or F606W)
+[ab] a: F606W filter on WFPC2 or b: F555W filter on ACS
+Effective radius (measured at the intermediate axis) in V-band
+HST/ACS I-band magnitude (F814W)
+Effective radius (measured at the intermediate axis) in I-band
+HST/NICMOS H-band magnitude (F160W)
+Einstein radius
+Log of mass within the Einstein radius
+The stellar fraction within the Einstein radius for Chabrier IMF (f^Chab^_*,Ein_)
+Fc uncertainty
+The stellar fraction within the Einstein radius for Salpeter IMF (f^Salp_*,Ein_)
+Fs uncertainty
+Ratio of the stellar fraction within the Einstein radius to the stellar fraction within the effective radius (f_*,Ein_/f_*,eff_)
+Stellar mass estimate from Chabrier IMF
+Mc uncertainty
+Stellar mass estimate from Salpeter IMF
+Ms uncertainty
+Absolute rest-frame Johnson B-band AB magnitude
+BMag uncertainty
+Absolute rest-frame Johnson V-band AB magnitude
+VMag uncertainty
+BMag with composite stellar population (CSP) model at z=0 
+BMag0 uncertainty
+VMag with composite stellar population (CSP) model at z=0 
+VMag0 uncertainty
+Display the SLACS survey data from Paper V. (Cat. J/ApJ/682/964)
+Display the SDSS data for this object
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Rigth ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Spectroscopic redshift
+SDSS g magnitude
+SDSS r magnitude
+SDSS z magnitude
+Spitzer/MIPS 24um flux
+[0/3] Classification of galaxy 
+Display the SDSS data for this galaxy
+Display the SDSS DR7 photometric catalog data (Adelman-McCarthy et al. 2006, Cat. II/267)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Spectroscopic redshift
+SDSS z magnitude
+H{alpha} equivalent width ({AA})
+H{delta} equivalent width ({AA})
+Display the SDSS data for this galaxy
+Display the SDSS DR7 photometric catalog data (Adelman-McCarthy et al. 2006, Cat. II/267)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Running identification number
+Field name
+AP identification within the field (APIDNN)
+WIYN/Hydra Hour of Right Ascension (J2000)
+WIYN/Hydra Degree of Declination (J2000)
+WIYN/Hydra spectroscopic redshift
+Error in z
+[0/2] Quality of z (2=good, 0=unknown) 
+WIYN/Hydra type of spectrum 
+WIYN/Hydra spectral features 
+Optical counterpart R-band magnitude
+1.4GHz Hour of Right Ascension (J2000)
+1.4GHz Degree of Declination (J2000)
+The 1.4GHz flux density
+Error in F1.4GHz
+WIYN/1.4GHz match separation 
+24 micron Hour of Right Ascension (J2000)
+24 micron Degree of Declination (J2000)
+Far-IR 24 micron flux density
+Error in F24um
+WIYN/24 micron match separation 
+[EP ] 24-micron source type 
+SDSS Redshift
+MMT/Hectospec Redshift
+Integrated CIII (1909) flux 
+CIII] (1909) equivalent width
+Integrated MgII (2798) flux 
+MgII (2798) equivalent width
+Integrated H{beta} (4861) flux 
+H{beta} (4861) equivalent width
+Integrated [OIII] (5007) flux 
+[OIII] (5007) equivalent width
+Integrated H{alpha} (6563) flux 
+H{alpha} (6563) equivalent width
+Integrated [NII] (6583) flux 
+[NII] (6583) equivalent width
+Integrated [SII] (6716) flux 
+[SII] (6716) equivalent width
+Integrated [SII] (6731) flux 
+[SII] (6731) equivalent width
+Balmer Decrement 
+color excess
+V band extinction
+log(dereddened H{alpha} luminosity)
+log(1.4GHz luminosity)
+log(24{mu}m luminosity)
+H{alpha} derived star formation rate
+1.4GHz derived star formation rate
+log([OIII](5007)/H{beta}(4861))
+log([NII](6583)/H{alpha}(6563))
+log([SII](6716+6731)/H{alpha}(6563))
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field name
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Date of observation
+Record number assigned by the VizieR team. Should Not be used for identification.
+Running identification number
+Group richness
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Group redshift
+Final velocity dispersion estimate {sigma}
+The "fudge" mass 
+[0,1] First Group purity parameter 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy identification \linkRole{zCOSMOS data from Lilly et al. 2009, Cat. J/ApJS/184/218}
+Group identification; see Table 3
+Group richness
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+zCOSMOS 10k-bright spectroscopic redshift (Lilly et al. 2009, Cat. J/ApJS/184/218)
+[0,2] Galaxy purity parameter 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Note number
+Text of the note
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable name
+Remarks in notes.dat file
+Heliocentric Julian Date of Minimun (table1.dat) or Maximum (table2.dat)
+Uncertainty flag on HJD
+rms uncertainty on HJD
+Observator name 
+Observed minus computed
+[s] s: secondary minimum
+Reference 
+Filter (-Ir, BV, R or V)
+[red] red: reduced results
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+BAVM name
+Reference for this object, in IBVS or BAVSR
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable name
+Remarks in notes.dat file
+Heliocentric Julian Date of Minimun (table1.dat) or Maximum (table2.dat)
+Uncertainty flag on HJD
+rms uncertainty on HJD
+Observator name 
+Observed minus computed
+[s] s: secondary minimum
+Reference 
+Filter (-Ir, BV, R or V)
+[red] red: reduced results
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+EROS-2 identifier, lmNNNNaNNNNN (G1) \linkRole{HEB properties }
+Right ascension (J2000)
+Declination (J2000)
+[1.1/5.5] EROS-2 period
+[1.1/5.5] OGLE III period from Graczyk et al. (2011, Cat. J/AcA/61/103)
+Alternative name
+MK spectral type
+Notes 
+Reference 
+Record number assigned by the VizieR team. Should Not be used for identification.
+EROS-2 identifier, lmNNNNaNNNNN (G1) \linkRole{HEB properties }
+[*] * indicates star with period re-determined based on our study of the light curve
+VMC identifier (JHHMMSS.ss+DDMMSS.s) 
+[0.9/21.1] Period
+Maximum VISTA Ks magnitude
+Maximum EROS R magnitude
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf n} for newly discovered HEB (table A1)
+Indicates that {\bf K}-band photometry, {\bf S}pectral classes, or both ({\bf*}) are available
+EROS-2 identifier, lmNNNNaNNNNN (G1)
+light curves
+Right ascension (J2000)
+Declination (J2000)
+[0.8/21.1] Period P
+[*] * indicates star with period re-determined based on our study of the light curve
+[13.5/18.1] Average EROS R magnitude
+[13.3/17.9] Average EROS B magnitude
+Epoch of minimum (HJD-2450000)
+Fourier parameter a_0_ 
+Fourier parameter a_1_ 
+Fourier parameter a_2_ 
+Fourier parameter a_3_ 
+Fourier parameter a_4_ 
+Fourier parameter a_5_ 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source identification number
+Indicates an X-ray detection in table3
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+The I-band magnitude
+The error in Imag in millimagnitudes
+[*] Indicates error greater than 0.1mag
+The (R-I) colour index
+The error in R-I in millimagnitudes
+[*] Indicates error greater than 0.1mag
+The (V-I) colour index
+The error in V-I in millimagnitudes
+[*] Indicates error greater than 0.1mag
+The (R-H{alpha}) colour index
+The error in R-Ha in millimagnitudes
+[*] Indicates error greater than 0.1mag
+Number of observations in Imag
+Number of observations in R-I
+Number of observations in V-I
+Number of observations in R-Ha
+Membership code 
+Data source 
+Additional notes 
+Record number assigned by the VizieR team. Should Not be used for identification.
+pwdetect source sequential number
+Hour of right ascension (J2000.0)
+Degree of declination (J2000.0)
+Significance
+CFHT number
+SBL number (Sung et al. 1997AJ....114.2644S, Cl* NGC 2264 SBL NNNN in Simbad)
+Remark
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name
+Minimum redshift
+Maximum redshift
+Right ascension (1950) of centre {\em(mean right ascension)}
+Declination (1950) of centre {\em(mean right ascension)}
+Maximum Right ascension in decimal deg. (1950)
+Minimum Right ascension in decimal deg. (1950)
+Maximum Declination in decimal degrees (1950)
+Minimum Declination in decimal degrees (1950)
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name
+Minimum redshift
+Maximum redshift
+Right ascension (1950) of centre {\em(mean right ascension)}
+Declination (1950) of centre {\em(mean right ascension)}
+Maximum Right ascension in decimal deg. (1950)
+Minimum Right ascension in decimal deg. (1950)
+Maximum Declination in decimal degrees (1950)
+Minimum Declination in decimal degrees (1950)
+Number of Durham groups with more than nine members that the supercluster contains
+Number of Abell, APM and EDCC clusters studied by De Propris et al. (2002, Cat. J/MNRAS/329/87) which the supercluster has
+Total number of groups and clusters
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster name \linkRole{all data related to this Cluster Infall Region}
+Radius at 500 times critical density, in h^-1^Mpc units
+Radius at 200 times critical density, in h^-1^Mpc units
+Turnaround radius, in h^-1^Mpc units
+Maximum caustic extent, in h^-1^Mpc units
+Mass within the r200 radius
+Uncertainty in M200
+Mass within the rt radius
+Uncertainty in Mt
+Ratio of the mass within rmax and r200
+Projected mass
+Uncertainty in MProj
+Virial mass
+Uncertainty in MVir
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster name \linkRole{all data related to this Cluster Infall Region}
+Hierarchical center Right Ascension in decimal degrees (J2000)
+Hierarchical center Declination in decimal degrees (J2000)
+Hierarchial and X-ray redshift center difference
+Hierarchial and X-ray position difference, in h^-1^kpc units
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster name \linkRole{all data related to this Cluster Infall Region}
+The NFW scale radius, in h^-1^Mpc units
+Radius at 200 times critical density, in h^-1^Mpc units
+The NFW concentration; r200/aNFW
+Mass within the r200 radius
+[HNS] Best-fit profile 
+Concentration, r101/aNFW
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster name \linkRole{all data related to this Cluster Infall Region}
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Heliocentric redshift
+X-ray luminosity in units of 10^43^erg/s 
+X-ray cluster catalog 
+X-ray temperature
+Projected velocity dispersion
+Upper limit uncertainty in sig
+Lower limit uncertainty in sig
+[0/2] Contrast of caustics 
+Projected radius of nearest edge of SDSS DR4 spectra 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object Name (JHHMM+DDMM)
+[abc] Multiplicity index on DRaGONS (G1)
+[c-g] Note on DRaGONS 
+Observation Date
+Second day of observation
+Radio right ascension (J2000) (G2)
+Radio declination (J2000) (G2)
+[YN] Extended source  (G3)
+Peak 1.4GHz flux density from the FIRST (VIII/71) catalog
+Integrated 1.4GHz flux density from the FIRST (VIII/71) catalog
+Limit flag on Kmag
+Apparent K magnitude for the infrared object (G4)
+rms uncertainty on Kmag 
+FWHM seeing measured for the field, for radio observations
+Limit flag on z
+Estimated redshift, for radio observations 
+Display the FIRST data (from Cat. VIII/71)
+Infrared right ascension (J2000)
+Infrared declination (J2000)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object Name
+[abc] Multiplicity index on DRaGONS (G1)
+[h-i] Note on DRaGONS 
+Observation Date
+Radio right ascension (J2000) (G2)
+Radio declination (J2000) (G2)
+[YN] Extended source  (G3)
+Peak 1.4GHz flux density from the FIRST (VIII/71) catalog
+Integrated 1.4GHz flux density from the FIRST (VIII/71) catalog
+Limit flag on Kmag
+2{sigma} limit K magnitude for the infrared object (G4)
+FWHM seeing measured for the field, for radio observations
+Limit flag on z
+Estimated redshift, for radio observations 
+Display the FIRST data (from Cat. VIII/71)
+Record number assigned by the VizieR team. Should Not be used for identification.
+SDSS name (JHHMMSS.ss+DDMMSS.s)
+Galactic longitude
+Galactic latitude
+Heliocentric velocity (computed from Vrf with formula: Vhelio = Vrf-(10cosl*cosb+5.2sinl*cosb+7.2sinb)-220sinl*cosb
+Rest-frame (galactocentric) velocity
+Spectral type
+Galactocentric distance assuming a MS star (main-sequence)
+Galactocentric distance assuming a BHB star (blue horizontal branch)
+Display the SDSS data
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Position (derived from SDSS name) (right ascension part)
+Position (derived from SDSS name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Apparent g' band magnitude
+Uncertainty in gmag
+Intrinsic (u'-g') color
+Uncertainty in (u-g)0
+Intrinsic (g'-r') color
+Uncertainty in (g-r)0
+[0/1] code 1=White dwarf, 0=B-type star
+Heliocentric velocity
+Uncertainty in HV
+Record number assigned by the VizieR team. Should Not be used for identification.
+Designation
+Right Ascension J2000 , Epoch 1989.0 (hours)
+Declination J2000 (sign)
+Number of positions used
+Instrumental Magnitude (to be used only in a relative sense)
+[0/1] Position Flag (0: ok, 1: internal error larger than 0.5")
+[0/1] Megnitude Flag (0: ok, 1: bad photometry or possible variable)
+*[0] Bochum Flag
+Record number assigned by the VizieR team. Should Not be used for identification.
+Designation
+Right Ascension J2000 , Epoch 1989.0 (hours)
+Declination J2000 (sign)
+Number of positions used
+Instrumental Magnitude (to be used only in a relative sense)
+[0/1] Position Flag (0: ok, 1: internal error larger than 0.5")
+[0/1] Megnitude Flag (0: ok, 1: bad photometry or possible variable)
+*[0] Bochum Flag
+Record number assigned by the VizieR team. Should Not be used for identification.
+Group name
+Right ascension of the group optical projected centroid in J2000
+Declination sign
+Total number of galaxies with measured redshifts in the fiber field
+Number of group members
+Biweight estimators of the mean heliocentric velocity
+rms uncertainty on HRV
+Line-of-sight velocity dispersion
+Error on sigma (upper limit)
+Error on sigma (lower limit)
+Physical radius of the group sampled by the fiber field (h^-1^Mpc)
+Pair radius (h^-1^Mpc)
+Mean harmonic (virial )radius (h^-1^Mpc)
+Virial mass (h^-1^Mpc)
+Ratio of the crossing time to Hubble time
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy name
+Right ascension (J2000.0)
+Declination sign
+Heliocentric radial velocity 
+rms uncertainty on HRV
+[0/2] Type of measurement 
+[ES] Morphological type 
+[pc] Plate/CCD 
+[N0] Heliocentric radial velocity reference 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Mask number
+Observation Date (UT)
+Right ascension of the nominal slit mask center (J2000)
+Declination of nominal slit mask center
+[-136/44] Position angle of the slit mask (individual slit orientations vary)
+Number of objects per mask (a slit may contain multiple objects)
+Number of secure redshifts (Q = -1, 3, or 4) measured per mask
+Percentage of objects per mask yielding secure redshifts
+Record number assigned by the VizieR team. Should Not be used for identification.
+Serial number in Team Keck Survey
+DEIMOS Hour of Right Ascension (J2000)
+DEIMOS Degree of Declination (J2000)
+DEIMOS R band (648.7+/-81nm) in AB system
+Mask number on which object was placed
+Slit number for object on TKRS mask
+Topocentric redshift measured by TKRS
+Redshift code assigned by TKRS 
+Alternate redshift from other works
+Source of alternate redshift
+X position on the DEIMOS mosaic image
+Y position on the DEIMOS mosaic image
+Sector number in which the object lies on the HST/ACS mosaic image 
+X position on the HST/ACS mosaic image
+Y position on the HST/ACS mosaic image
+DEIMOS semi-major axis 
+DEIMOS ellipticity (1-a/b) 
+[-90/140] DEIMOS major axis position angle 
+GOODS-N v1.0 catalog IAU identification 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference number
+BibCode
+Author's name
+Comments
+Record number assigned by the VizieR team. Should Not be used for identification.
+code number for reference
+text of reference
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source identification
+notes to the table for the source
+Record number assigned by the VizieR team. Should Not be used for identification.
+*Source name (as hhmm+/-ddd)
+Alternate source name
+*Opt. counterpart name or location in finding chart
+*Opt. counterpart name or location in finding chart
+Right Ascension -hours (B1950)
+Declination sign (B1950)
+Galactic Longitude (accurate to 0.1 deg)
+Galactic Latitude
+*combination of src_pos and acc_pos, where src_pos = spectral region for positional data acc_pos = positional accuracy indication
+*[ABDGPTUZ() ] source type code
+*[ACExoGrHaKMORSLTUV, ] catalogs/experiments listing/detecting source
+[LH]! L = LMXB ; H = HMXB
+reference code to finding chart
+visual magnitude optical counterpart
+(B-V) color index optical counterpart
+(U-B) color index optical counterpart
+Other magnitude value
+identification of the Other_mag
+Spectral type optical counterpart (HMXB only)
+Estimate for interstellar reddening
+*X-ray flux
+*X-ray flux lower limit range
+*X-ray flux upper limit range
+Orbital period (unit in unit_P field)
+Pulse period for pulsars
+unit of Orbital period
+reference codes for the photometry
+reference codes for the X-ray fluxes
+reference codes for Orbital and Pulse periods
+Record number assigned by the VizieR team. Should Not be used for identification.
+*Source name (as hhmm+/-ddd)
+Alternate source name
+*Opt. counterpart name or location in finding chart
+*Opt. counterpart name or location in finding chart
+Right Ascension -hours (B1950)
+Declination sign (B1950)
+Galactic Longitude (accurate to 0.1 deg)
+Galactic Latitude
+*combination of src_pos and acc_pos, where src_pos = spectral region for positional data acc_pos = positional accuracy indication
+*[ABDGPTUZ() ] source type code
+*[ACExoGrHaKMORSLTUV, ] catalogs/experiments listing/detecting source
+[LH]! L = LMXB ; H = HMXB
+reference code to finding chart
+visual magnitude optical counterpart
+(B-V) color index optical counterpart
+(U-B) color index optical counterpart
+Other magnitude value
+identification of the Other_mag
+Spectral type optical counterpart (HMXB only)
+Estimate for interstellar reddening
+*X-ray flux
+*X-ray flux lower limit range
+*X-ray flux upper limit range
+Orbital period (unit in unit_P field)
+Pulse period for pulsars
+unit of Orbital period
+reference codes for the photometry
+reference codes for the X-ray fluxes
+reference codes for Orbital and Pulse periods
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source identification
+notes to the table for the source
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable star, GX number, Globular Cluster or constellation
+Source identification
+table number
+Record number assigned by the VizieR team. Should Not be used for identification.
+Date
+[* ] data ignored from this date 
+Noisy bolometers 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source/Region designation \linkRole{SCUBA measurements in this region}
+[en*] Flag on object 
+Object type 
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object/Region identification
+Date of the observation
+[ab] Multi-observation designation
+Offset in Right Ascension 
+Offset in Declination 
+Intensity at 850um (G1)
+Error in Int (G1)
+Polarization percentage
+Error in Pol
+Polarization angle
+Error in theta
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object/Region identification
+[bc] Note on ID 
+Offset in Right Ascension 
+Offset in Declination 
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Intensity at 850um (G1)
+Error in Int (G1)
+Polarization percentage
+Error in Pol
+Polarization position angle
+Error in theta
+Record number assigned by the VizieR team. Should Not be used for identification.
+Washington Double Star catalog designation, HHMMm+DDM (J2000)
+Object identification (HR,ADS DM,etc.)
+Discoverer Designation
+HIPPARCOS catalog identification
+Fraction of the Besselian year observation date
+Observed position angle {theta}; east of north
+[b] Quadrant inconsistent 
+Observed separation {rho}
+Magnitude difference in 562nm filter
+[ac] Quadrant ambiguous or inconsistent 
+Magnitude difference in 692nm filter
+[acde] Quadrant problem, or other remark 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+from Simbad and WDS (right ascension part)
+from Simbad and WDS (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name, in WDS format, HHMMm+DDM (J2000)
+HIPPARCOS catalog identification
+Observation date, in Besselian year
+5{sigma} limit in the 562nm filter
+5{sigma} limit in the 692nm filter
+Notes
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+LAA sequential number, \dicS{[MNM2009] LAA NN} in Simbad
+Right ascension (J2000)
+Declination (J2000)
+Subaru N497 magnitude in AB system ({lambda}c=4977{AA}, FWHM=77{AA})
+Subaru Bv magnitude in AB system ({lambda}c=4977{AA}, FWHM=1742{AA})
+Subaru B magnitude in AB system ({lambda}c=4417{AA}, FWHM=807{AA})
+Subaru V magnitude in AB system ({lambda}c=5447{AA}, FWHM=935{AA})
+Observed Ly{alpha} equivalent width
+UV specific luminosity (log(erg/s/Hz))
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+LAE sequential number, \dicS{[MNM2009] LAE NNN} in Simbad
+Right ascension (J2000)
+Declination (J2000)
+Subaru N497 ({lambda}c=4977{AA}, FWHM=77{AA}) magnitude in AB system
+Subaru Bv ({lambda}c=4977{AA}, FWHM=1742{AA}) magnitude in AB system
+Subaru B ({lambda}c=4417{AA}, FWHM=807{AA}) magnitude in AB system
+Subaru V ({lambda}c=5447{AA}, FWHM=935{AA}) magnitude in AB system
+Observed Ly{alpha} equivalent width
+Ly{alpha} luminosity (log(erg/s))
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Filter of the color index
+[-4.4/0.4] Lower color value 
+[0.1/5.3] Upper color value 
+The c_0_ coefficient 
+The c_1_ coefficient 
+The c_2_ coefficient 
+The c_3_ coefficient 
+The c_4_ coefficient 
+[0.001/0.2] Standard deviation about the fit 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Number of supernovae II-P in this galaxy
+Galaxy name 
+[=] =: fixed distance modulus (see section 2.1)
+[27.8/35.7] Distance modulus
+[0.04/0.7] mu uncertainty
+[0.1/0.7] Uncertainty {sigma}'_{mu} 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Supernova identifier (YYYYaa)
+Host galaxy name \linkRole{galaxy distance}
+Other NGC number
+[44539/56004] Explosion time t_0_ (JD-2400000)
+[0/6] t0 uncertainty
+[60/140] Optically thick phase duration t_P_ (Plateau duration) 
+[0.1/13] tP uncertainty
+[0.1/27.3] Transition width t_W_ 
+[0/5.3] tW uncertainty
+[~] uncertain E(B-V)
+[0/1.6] E(B-V) reddening
+[0/0.03] E(B-V) uncertainty
+[32/1302] Number of photometric measures
+[0/29] Number of velocity measures
+[36.4/11485] Fit {chi}^2^
+Display the Asiago Supernova data for this SN (Cat. B/sn)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+[7.5/9.1] log Bolometric luminosity at 50days (L_bol_(t_0_+50days))
+[0.003/0.3] logLbol uncertainty
+[-3/-0.5] Ejected nickel mass M_Ni_
+[a] Uncertain Ni mass 
+[0.003/0.3] logMNi uncertainty
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cloud name
+Star name 
+Maximum polarization
+Uncertainty in Pmax
+Wavelength of maximum polarization
+Uncertainty in Wmax
+Interstellar polarization K parameter 
+Uncertainty in K
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf P} indicates stars which Polarization curve fits in table5
+Cloud name 
+Star name
+MK Spectral Classification 
+Reference for SpType 
+The V band magnitude
+Uncertainty in Vmag
+Observed (B-V) color index
+Uncertainty in B-V
+Intrinsic (B-V) color index
+Uncertainty in (B-V)0
+Observed (V-K) color index
+Uncertainty in V-K
+Intrinsic (V-K) color index
+Uncertainty in (V-K)0
+Ratio of total-to-selective extinction
+Uncertainty in Rv
+[d] Rv ignored in the analysis 
+The V band extinction
+Uncertainty in Av
+Screened out 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name
+Polarisation in U band
+Mean error on p(U)
+Position angle of U-band polarisation
+Mean error on pa(U)
+Polarisation in B band
+Mean error on p(B)
+Position angle of B-band polarisation
+Mean error on pa(B)
+Polarisation in V band
+Mean error on p(V)
+Position angle of V-band polarisation
+Mean error on pa(V)
+Polarisation in R band
+Mean error on p(R)
+Position angle of R-band polarisation
+Mean error on pa(R)
+Polarisation in U band
+Mean error on p(I)
+Position angle of I-band polarisation
+Mean error on pa(I)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right Ascension ICRS
+Declination ICRS
+[0/1821] Distance between the optical and radio positions
+Distance(optical-radio) in RA*cos(Dec)
+Distance(optical-radio) in Dec
+[4/250] total, formal error of optical position (RA*cos(Dec))
+[4/250] total, formal error of optical position (Dec)
+ratio dRA*/eRA (position difference in RA in {sigma}s)
+ratio dDE/eDE (position difference in Dec in {sigma}s)
+error of radio position (per coordinate)
+number of deep CCD exposures used
+average number of reference stars per deep exposure used
+average number of reference stars excluded
+mean "plate" solution error of individual deep CCD exposures
+[1/1639] Approximate signal/noise ratio of target on individual deep CCD
+Optical brightness from LQAC-2 (J/A+A/537/A99)
+[0/5] Redshift from LQAC-2 (J/A+A/537/A99)
+[0/3] Object type: 0=unknown, 1=AGN, 2=BL-Lac, 3=QSO (from Veron's 13th ed. (VII/258)
+[0.8/7.2] Radio X-band (8-12GHz) structure index from Bordeaux database: 1=very good, 2=good, 3=use with caution, 4=unacceptable
+[2/4] UCAC-type reductions (2 or 4)
+B1950 coordinate based name of target
+Number of results for this source with UCAC2- and UCAC4-type reductions
+[abo-zJ] Code of deep CCD observing run 
+[rc] Type of target: r=regular target, c=also used as calibration field
+[ufplgn] Quality letter of optical image 
+Existence in V\'erons' catalogue (VII/258) and/or LQAC-2 (J/A+A/537/A99) within 3arcsec
+Remarks; if a double the separation (pixel) and flux ratio (source/companion) is given
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right Ascension ICRS
+Declination ICRS
+[0/1821] Distance between the optical and radio positions
+Distance(optical-radio) in RA*cos(Dec)
+Distance(optical-radio) in Dec
+[4/250] total, formal error of optical position (RA*cos(Dec))
+[4/250] total, formal error of optical position (Dec)
+ratio dRA*/eRA (position difference in RA in {sigma}s)
+ratio dDE/eDE (position difference in Dec in {sigma}s)
+error of radio position (per coordinate)
+number of deep CCD exposures used
+average number of reference stars per deep exposure used
+average number of reference stars excluded
+mean "plate" solution error of individual deep CCD exposures
+[1/1639] Approximate signal/noise ratio of target on individual deep CCD
+Optical brightness from LQAC-2 (J/A+A/537/A99)
+[0/5] Redshift from LQAC-2 (J/A+A/537/A99)
+[0/3] Object type: 0=unknown, 1=AGN, 2=BL-Lac, 3=QSO (from Veron's 13th ed. (VII/258)
+[0.8/7.2] Radio X-band (8-12GHz) structure index from Bordeaux database: 1=very good, 2=good, 3=use with caution, 4=unacceptable
+[2/4] UCAC-type reductions (2 or 4)
+B1950 coordinate based name of target
+Number of results for this source with UCAC2- and UCAC4-type reductions
+[abo-zJ] Code of deep CCD observing run 
+[rc] Type of target: r=regular target, c=also used as calibration field
+[ufplgn] Quality letter of optical image 
+Existence in V\'erons' catalogue (VII/258) and/or LQAC-2 (J/A+A/537/A99) within 3arcsec
+Remarks; if a double the separation (pixel) and flux ratio (source/companion) is given
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference number used in table2 and table3
+Reference number in file "\begin{tex}\vFile{VII/258/./refs.dat}{refs.dat}\end{tex}"
+19-digit "bibcode" used by ADS, NED and SIMBAD
+First author(s)
+Record number assigned by the VizieR team. Should Not be used for identification.
+QSO Name
+QSO name, based on 1950 position
+redshift of Quasar
+Redshift of lens
+Separation between the images
+References detailed in table ref2.dat
+Record number assigned by the VizieR team. Should Not be used for identification.
+[*] '*' if not detected in radio 
+Most common name of the object
+[OAR] Approximative/Optical/Radio position
+Right Ascension J2000
+Declination J2000
+[*] '*' for z measured by slitless spectroscopy
+Original redshift
+[QGBLS12 ] Original classification
+[*IRIOJK] Photographic(*), red(R), infra-red (I) or photographic O- or J- plates(O)
+V (or photographic, see n_Vmag) magnitude
+colour index
+colour index
+[1,2701] Reference of Finding Chart
+[1,2701] Reference of the Photometry
+[1,2701] Reference of Sp
+[QGH2*SN ] New classification
+[1,2701] Reference of New classification
+Record number assigned by the VizieR team. Should Not be used for identification.
+Class, as {\bf Q} (quasar, M_v_-22.25), {\bf B} (BL Lac) and {\bf A} (Active galaxy nucleus, M_v_-22.25)
+[*] '*' if not detected in radio 
+Most common name of the object
+[AOR] Approximative/Optical/Radio position 
+Right Ascension J2000 (see also n_RAh)
+Declination J2000
+6cm (5GHz) flux 
+[1,2701] Reference of 6cm Flux
+20cm (1.4GHz) flux (Jy) 
+[1,2701] Reference of 20cm flux
+[*] limit or method flag on z 
+redshift
+[S0-9HPQBLbhin. ] Spectrum classification 
+[*BVRIO] Photographic(*), blue(B), visible(V), red(R), infra-red (I) or photographic O/J-plates(O)
+magnitude: either V if B-V is not blank, or another band (see n_Vmag)
+colour index
+colour index
+Absolute magnitude
+[1,2701] Reference of the Finding Chart
+[1,2701] Reference of the Photometry
+[1,2701] Reference of the redshift
+Record number assigned by the VizieR team. Should Not be used for identification.
+QSO Name
+QSO name, based on 1950 position
+redshift of Quasars
+Separation between the components
+References detailed in table ref2.dat
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1,2701]+= Reference Number
+The 19-digit bibcode
+Text of reference
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy NGC number \linkRole{galaxy properties }
+Designation of globular cluster (GC) or Ultra-Compact Dwarf (UCD) in galaxy
+Right Ascension in degrees (J2000)
+Declination in degrees (J2000)
+Adopted g-i colour index
+Uncertainty in g-i colour index
+Adopted i magnitude
+Uncertainty in i magnitude
+[2.5/10.6] CaT index
+[0.1/2] Negative uncertainty of CaT index
+[0.1/2.1] Positive uncertainty of CaT index
+[-2.6/1.2] Metallicity
+[0.05/1] Negative uncertainty of metallicity
+[0.09/1] Positive uncertainty of metallicity
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy NGC number
+Number of clusters in the galaxy
+[27/66] Effective radius of galacy
+Morphological type
+[9/27] Galaxy distance
+[135/308] Central velocity dispersion from Brodie et al. (2014ApJ...796...52B)
+[-22/-19] Total B-band absolute magnitude from de Vaucouleurs et al. 1991 (VII/155), corrected for galaxy extinction
+[10.4/11.5] Total logarithmic stellar mass 
+[0.8/1] g-i colour index marking the split between the blue and red GC subpopulations 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Main name of the radio association (G1)
+[-272182,107498] Spectrum Sequential number 
+[30,15000] Frequency
+Flux density at frequency nu
+Mean error on S(nu)
+Right ascension (J2000) of source
+Declination (J2000) of source
+Name of the associated radio source (G1)
+\vizContent{spectrum}Plot of the Spectral Energy Distribution
+Get an optical image, with an overplot of radio contours
+Size of beam (0 if unknown)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1,107498] Sequential number of the spectrum 
+source flags: {\bf1}=confusion (NVSS neighbors within 2'), {\bf2}=extended (more than 45" deconvolved on NVSS image), {\bf4}=complex (marked complex in NVSS). A combination of these flags is represented by the sum of these numbers
+Main name of the radio source (G1)
+[2,31] Number of points in spectrum
+Slope of spectrum 
+Abscissa of spectrum 
+[30,15000] Frequency
+Flux density at frequency nu
+Mean error on S(nu)
+Right ascension (J2000) of source
+Declination (J2000) of source
+Difference with flux expected from NVSS
+Offset in RA from NVSS source
+Offset in DE from NVSS source
+\vizContent{spectrum}Plot of the Spectral Energy Distribution
+Get an optical image, with an overplot of radio contours
+Size of beam (0 if unknown)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Catalog abbreviation used in SPECFIND (G1)
+[IS-] interferometer or Single dish
+[30,15000] Frequency
+Beam size
+Sensitivity limit
+Number of sources in catalog
+Percentage of sources having a spectrum
+Reference's bibcode
+Catalog acronyms in VizieR
+Record number assigned by the VizieR team. Should Not be used for identification.
+Sanduleak name: declination zone
+Sanduleak name: number in zone
+[abc] Sanduleak name: multiplicity index.
+[*] Remark detailed in "\begin{tex}\vFile{III/113A/./notes.dat}{notes.dat}\end{tex}"
+Right Ascension J2000
+Declination J2000
+[UMGTDscg] Source of position 
+UCAC2 identification
+GSC or Tycho-2 (Cat. I/259) identification
+Identification in Massey (2002ApJS..141...81M, Cat. II/236)
+Approximative visual magnitude (from M. Morel)
+Uncertainty flag (:) on Vmag
+Spectral type (from Sanduleak)
+Remarks (from B. Skiff)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Sanduleak name: declination zone
+Sanduleak name: number in zone
+[abc] Sanduleak name: multiplicity index than one star has the same NS
+[*] Asterisk if note, detailed in "\begin{tex}\vFile{III/113A/./notes.dat}{notes.dat}\end{tex}"
+Henry Draper Catalogue number
+[:] HD identification uncertain
+Cape Photographic Durchmusterung name
+[:] CPD identification uncertain
+Right ascension (B1975) hours
+Declination: degrees
+Spectral type. Lower case characters for broad lines (n=nebulous) and emission (e)
+Photographic magnitude mpg (always present).
+[v] if variable mpg; otherwise blank.
+Finding chart identification 
+Alternate identification 
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[S] Blank for original note, 'S' for a note from Brian Skiff.
+Sanduleak name: declination zone
+Sanduleak name: number in zone
+Sanduleak name: multiplicity index
+Text of note
+Record number assigned by the VizieR team. Should Not be used for identification.
+Cluster number \linkRole{cluster properties }
+Galaxy name (JHHMMSS.s+DDMMSS)
+Right ascension (J2000)
+Declination (J2000)
+[17.7/25.2] Total r' magnitude (AB, fully corrected by galactic extinction)
+[0.36/2.76] 2.9"-aperture r'-i' colour index (AB, fully corrected by galactic extinction)
+[2.1/4.8] Concentration index
+[0/1] Ellipticity
+[1/5] Visual classification 
+[0.18/0.8] Redshift (spectroscopic)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/148] Cluster number \linkRole{galaxies }
+Right ascension (J2000)
+Declination (J2000)
+[1.4/42.7] X-ray luminosity (in 10^43^erg/s)
+[0.18/0.7] Redshift
+Number of galaxies observed in this cluster (table3)
+Program ID
+[4/15] Number of g'-band exposures
+[300/600] Individual g'-band exposure time
+[4/15] Number of r'-band exposures
+[190/900] Individual r'-band exposure time
+[4/15] Number of i'-band exposures
+[120/150] Individual i'-band exposure time
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object name (Field-Identifier)
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+The {R} band magnitude (G1)
+The (G-{R}) color (G1)
+The (U_n_-G) color (G1)
+Uncertainty flag on z-em
+Redshift derived from emission lines 
+Uncertainty flag on z-abs
+Redshift derived from absorption lines 
+Object type
+Notes on Name 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field name
+Field center right ascension (J2000.0)
+Field center declination (J2000.0)
+Filter (G1)
+Telescope and date 
+Pixel scale
+FWHM
+Exposition time
+Dimension
+Dimension
+Area
+Record number assigned by the VizieR team. Should Not be used for identification.
+[a-o] Note number (may be repeated)
+Tet of note
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference number or code
+BibCode
+Author's name
+Comments
+Record number assigned by the VizieR team. Should Not be used for identification.
+The Faint Source Catalog IRAS name
+[abc] Flag on FSC 
+Sample from which the object was selected
+Radio-excess parameter
+Logarithm of the 60{mu}m luminosity
+Logarithm of the 4.85GHz luminosity
+Radio 3-6cm spectral index 
+Radio 6-20cm spectral index 
+Radio 6-36cm spectral index 
+Limit flag on Size
+Projected linear radio source size 
+Reference on Size, in refs.dat file 
+Object type
+Object identification
+Display the IRAS Faint Source Catalog (II/156) data
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Position (as computed from IRAS Faint Sources Catalog, Cat. II/156) (right ascension part)
+Position (as computed from IRAS Faint Sources Catalog, Cat. II/156) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+The Faint Source Catalog (II/156) IRAS name
+[bcdef] Flag on FSC 
+The PMN (VIII/38) name
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Position reference 
+The 3 {sigma} limit flag on S25um
+IRAS 25 micron flux density
+IRAS 60 micron flux density
+Total integrated 8GHz flux density
+Total integrated 5GHz flux density
+Reference for S5GHz 
+Redshift
+Reference on z 
+Alternative identification from NED
+[*] Correction made at CDS, see "\Acat{J/AJ/126/2237\#sRM99.2}{History}" section
+Display the Parkes-MIT-NRAO data Catalog (VIII/38)
+Display the IRAS Faint Source Catalog (II/156) data
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Record number assigned by the VizieR team. Should Not be used for identification.
+NFGS identification number
+{\bf N} indicates galaxies with new HI data (in the sub-M_b_ E/S0 sample data)
+Galaxy name (G1)
+The UGC number
+Morphology in NFGS database
+Sequence association (B, Mid or R) 
+Heliocentric optical velocity from HI
+Uncertainty in HVel
+Observed maximum rotation speed
+Uncertainty in Vmax
+Limit flag on fHI
+Velocity-integrated HI flux
+Uncertainty in fHI
+Limit flag on MHI
+HI gas mass 
+Uncertainty in MHI
+Reference for HI data 
+Display the NFGS catalogs (Jansen et al., 2000, Cat. J/ApJS/126/271 and J/ApJS/126/331)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from SIMBAD database (right ascension part)
+Positions from SIMBAD database (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/197] NFGS identification number
+Galaxy name (G1)
+[a-c] Flag on Name 
+UGC designation
+Hour of right ascension of GBT pointing center (J2000)
+Degree of declination (J2000)
+Time on-source
+Heliocentric optical velocity from HI
+HVel uncertainty
+Velocity width measured at the 20% level
+W20 uncertainty
+Velocity width measured at the 50% level
+W50 uncertainty
+Limit flag on fHI
+Velocity-integrated HI flux 
+fHI uncertainty
+Channel-to-channel rms of the HI spectrum
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name (eNsN, sN or S235B)
+Region of S235: {\bf C}omplex, {\bf E}ast 1 and 2, or {\bf A}-B
+Sequential number of tablec1 (tablec3) or tablec4 (tablec7) or other name
+Right ascension (J2000)
+Declination (J2000)
+2MASS J magnitude
+rms uncertainty on Jmag
+2MASS H magnitude
+rms uncertainty on Hmag
+2MASS Ks magnitude
+rms uncertainty on Ksmag
+IRAC 3.6um magnitude
+rms uncertainty on [3.6]
+IRAC 4.5um magnitude
+rms uncertainty on [4.5]
+IRAC 5.8um magnitude
+rms uncertainty on [5.8]
+IRAC 8.0um magnitude
+rms uncertainty on [8.0]
+IRAC spectral index
+rms uncertainty on SI
+[0I/ ] YSO class
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name (eNsN, or sN or S235B)
+{chi}^2^ value given as per data point
+Age
+rms uncertainty on logAge
+Stellar mass
+rms uncertainty on M*
+Stellar temperature
+rms uncertainty on logT*
+Stellar luminosity
+rms uncertainty on logL*
+Enveloppe mass
+rms uncertainty on logMe
+Enveloppe mass loss rate
+rms uncertainty on logdMe/dt
+Disc mass
+rms uncertainty on logMd
+Disc mass loss rate
+rms uncertainty on logdMd/dt
+Number of models (degeneracy)
+Region of S235: {\bf C}omplex, {\bf E}ast 1 and 2, or {\bf A}-B
+Record number assigned by the VizieR team. Should Not be used for identification.
+Region of S235: {\bf C}omplex, {\bf E}ast 1 and 2, or {\bf A}-B
+Sequential number within the table
+Other name
+Right ascension (J2000)
+Declination (J2000)
+2MASS J magnitude
+rms uncertainty on Jmag
+[i] i if magnitude from Mt. Abu observations (MKO system)
+2MASS H magnitude
+rms uncertainty on Hmag
+[i] i if magnitude from Mt. Abu observations (MKO system)
+2MASS Ks magnitude
+rms uncertainty on Ksmag
+[i] i if magnitude from Mt. Abu observations (MKO system)
+IRAC 3.6um magnitude
+rms uncertainty on [3.6]
+IRAC 4.5um magnitude
+rms uncertainty on [4.5]
+IRAC 5.8um magnitude
+rms uncertainty on [5.8]
+IRAC 8.0um magnitude
+rms uncertainty on [8.0]
+IRAC spectral index
+rms uncertainty on SI
+YSO class: {\bf 1}=0/I, {\bf 2}=II, {\bf 5}=new Class I or {\bf 6}=new Class II YSOs
+Record number assigned by the VizieR team. Should Not be used for identification.
+Survey that galaxy was chosen from 
+Galaxy name
+Right ascension (B1950)
+Declination (B1950)
+Redshift corrected to the local standard
+Smoothed galaxy density (Uncertainty = 0.1)
+R band magnitude from SExtractor BEST_MAG (see section 2.2)
+B band CCD morphology 
+Equivalent width of H{alpha}
+Uncertainty in EqW
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension (B1950)
+Declination (B1950)
+Redshift corrected to the local standard
+Uncertainty in cz
+R band magnitude from SExtractor BEST_MAG (see section 2.2)
+Name of neighbor primary given in table1.dat
+Distance between neighbors
+Difference in redshift (corrected to the local standard) between neighbors
+Comments on object
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star identification (JHHMMSS.ss+DDMMSS.s)
+[-293/55] Observed radial velocity
+[d] Discrepent velocities (G1)
+[12/52] Tonry and Davis r correlation parameter
+[-255/-105] Expected radial velocity (G4)
+Observed minus expected radial velocity
+[15/20] V band magnitude (G2)
+[0.5/2.3] The (B-V) color index (G2)
+[e] e: Star is moderately crowded in the B-band
+[0.6/1.5] The (V-R) color index (G2)
+[12/15] 2MASS Ks band magnitude
+[1/4] Source class rank (G3) (1/2 for likely/possible supergiant)
+Display the 2MASS data (Cutri et al. 2003, Cat. II/246) within 1"
+[3/4] Logarithm of effective temperature
+[4/7] Logarithm of luminosity
+[,1-3] Known variability reference(s) 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from LGGS names (right ascension part)
+Positions from LGGS names (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star identification (JHHMMSS.ss+DDMMSS.s)
+[-310/71] Observed radial velocity
+[d] Discrepent velocities (G1)
+[11/73] Tonry and Davis r correlation parameter
+[-264/-100] Expected radial velocity (G4)
+Observed minus expected radial velocity
+[12/19] V band magnitude (G2)
+[0.01/1.4] The (B-V) color index (G2)
+[0.9/3] OI{lambda}7774 Equivalent Width in Angstroms ({AA})
+[ 1-4Cl] Source class rank (G3) (1/2 for likely/possible supergiant)
+[3/4] Logarithm of effective temperature
+[4/7] Logarithm of luminosity
+[,1-3] Known variability reference(s) 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from LGGS names (right ascension part)
+Positions from LGGS names (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Species identification (G1)
+Wavelength {lambda} (in Angstroms)
+Excitation potential (G2)
+Log of the oscillator strength
+Equivalent width for NGC 1916 (G3)
+Equivalent width for NGC 2005 (G3)
+Equivalent width for NGC 2019 (G3)
+Equivalent width for NGC 1978 (G3)
+Equivalent width for NGC 1718 (G3)
+Equivalent width for NGC 1866 (G3)
+Equivalent width for NGC 1711 (G3)
+Equivalent width for NGC 2100 (G3)
+Method type 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star designation
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Year of observation
+Display the Equivalent Widths for this star from table3
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+Species identification (G1)
+Wavelength {\lambda} (in Angstroms)
+Excitation potential
+Log of the oscillator strength (G2)
+Equivalent width for star 1978-737 (G3)
+[S] not used for abundance 
+Equivalent width for star 1978-730 (G3)
+[S] not used for abundance 
+Equivalent width for star 1866-954 (G3)
+[S] not used for abundance 
+Equivalent width for star 1866-1653(G3)
+[S] not used for abundance 
+Equivalent width for star 1866-1667(G3)
+[S] not used for abundance 
+Equivalent width for star 1711-831 (G3)
+[S] not used for abundance 
+Equivalent width for star 1711-988 (G3)
+[S] not used for abundance 
+Equivalent width for star 1711-1194 (G3)
+[S] not used for abundance 
+Equivalent width for star 2100-c12 (G3)
+[S] not used for abundance 
+Equivalent width for star 2100-b22 (G3)
+[S] not used for abundance 
+"HFS" for hyperfine splitting 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Old(5Gyr), Int(1-3Gyr), or Yng(1Gyr)
+Cluster NGC number
+Limit flag on Age
+Age limit or range
+Upper age range
+Metallicity
+Upper metallicity range (if filled, Metallicity is the lower range)
+Uncertainty in [Fe/H]
+Mean abundance of {alpha} elements 
+Second value of [a/Fe] 
+Reference(s) 
+Display the equivalent width data for this cluster (table 2)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from SIMBAD database (right ascension part)
+Positions from SIMBAD database (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/1515]+= Markarian designation number
+Name composed with HHMM+DD (hours and minutes of RA 1950, degrees of DE 1950). This name is not unique among FBS galaxies
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/1515]+ Markarian galaxy number
+Other names
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/1515]+ Markarian designation number
+Right ascension 1950.0
+Declination sign
+Redshifht corrected for Galaxy rotation (the rotation constant is Q=300km/s)
+Apparent magnitude from the CGCG
+[*] An '*' indicates that there were no value in CGCG and that the magnitude given is the original estimates of the authors
+Absolute magnitude
+Spectral type
+Major axis diameter
+Multiplicative symbol for angular size
+Minor axis diameter
+Redshift reference (See "refs" file)
+[*] A '*' indicates the double object having the same number in the original list; there is more detailed information about the second component in the "notes.dat" file
+Morphological type. In some cases, the description "dbl" is used for close binaries
+Spectrum type 
+Diaphragm size. When the are several diaphragms, the largest one is presented
+Vmagnitude
+B-V colour index
+U-B colour index
+References for UBV photometry (See "refs" file)
+[v] A 'v' indicates optical variability
+IRAS flux at 12 {mu}m 
+Limit flag on F25um
+IRAS flux at 25 {mu}m 
+Limit flag on F60um
+IRAS flux at 60 {mu}m 
+Limit flag on F100um
+IRAS flux at 100 {mu}m 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Mrk galaxy number
+Right ascension 1950.0
+Declination sign
+Observed magnitude from the CGCG
+[*] An '*' indicates that there were no value in CGCG and that the magnitude given is the original estimates of the authors
+Spectral type
+Reference number (See "refs" file)
+Spectrum
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/108]+= Reference number
+References
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/1515]+= Markarian designation number
+Spectral type
+Magnitude of secondary
+Redshift of secondary
+Oext of note
+Record number assigned by the VizieR team. Should Not be used for identification.
+Galaxy name 
+Markarian galaxy designation
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field designation
+Object number
+Right ascension (1950)
+Declination (1950)
+Morphological type
+Visual J magnitude
+J-F colour index
+Absolute J magnitude
+Velocity
+[O II] {lambda}3727{AA} equivalent width 
+[ND] Note on EW3727 
+[b] Note on emission 
+Limit flag on EWHbeta
+H{beta} equivalent width 
+[ND] Note on EWHbeta 
+[b] Note on emission 
+Limit flag on EW4959
+[O III] {lambda}4959{AA} equivalent width 
+[ND] Note on EW4959 
+[ab] Note on emission 
+Limit flag on EW5007
+[O III] {lambda}5007{AA} equivalent width 
+[ND] Note on EW5007 
+[ab] Note on emission 
+H{alpha} equivalent width 
+[ND] Note on EWHalpha 
+[b] Note on emission 
+References 
+Comment
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field designation
+Object number
+Right ascension (1950)
+Declination (1950)
+Visual J magnitude
+')' when estimated magnitude
+J-F colour index
+')' when estimated color index
+Absolute J magnitude
+')' when estimated magnitude
+Velocity
+[O II] {lambda}3727{AA} equivalent width
+[ND] Note on EW3727 
+H{beta} equivalent width
+[ND] Note on EWHbeta 
+Limit flag on EW4959
+[O III] {lambda}4959{AA} equivalent width
+[ND] Note on EW4959 
+Limit flag on EW5007
+[O III] {lambda}5007{AA} equivalent width
+[ND] Note on EW5007 
+References 
+Comment
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field name
+Redshift
+Reference for z, in refs.dat file
+Pointing center Right Ascension (J2000)
+Pointing center Declination (J2000)
+[BO] Array used 
+The 28.5GHz RMS
+Difference in Right Ascension of Sunyaev-Zel'dovich centroid
+Difference in Declination of Sunyaev-Zel'dovich centroid
+28.5GHz source number in field 
+Source Right Ascension (J2000)
+Source Declination (J2000)
+Source radius
+Source 28.5GHz flux density
+Uncertainty in S28.5GHz
+Source 1.4GHz flux density (from literature)
+Origin of S1.4GHz 
+SPECFIND of radio surveys (Vollmer et al., Cat. VIII/85
+Record number assigned by the VizieR team. Should Not be used for identification.
+Reference code
+BibCode
+Author's name
+Comments
+Record number assigned by the VizieR team. Should Not be used for identification.
+Field name
+Pointing center Right Ascension (J2000)
+Pointing center Declination (J2000)
+The 28.5GHz RMS
+Source Right Ascension (J2000)
+Source Declination (J2000)
+Source radius
+Source 28.5GHz flux density
+Uncertainty in S28.5GHz
+Source 1.4GHz flux density
+Record number assigned by the VizieR team. Should Not be used for identification.
+Julian date (-2440000) of each observation
+Measured radial velocity
+Internal uncertainty in RV
+V magnitude
+Identification
+Record number assigned by the VizieR team. Should Not be used for identification.
+Julian date (-2440000) of each observation
+Right ascension (equinox 1950.0)
+Declination (equinox 1950.0)
+Radial distance from cluster center
+Position angle positive north through east
+Measured radial velocity
+Internal one-sigma uncertainty in RV
+V magnitude
+Percent probability of membership
+Identification
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Julian date (-2440000) of each observation
+Right ascension (equinox 1950.0)
+Declination (equinox 1950.0)
+Radial distance from cluster center
+Position angle positive north through east
+Measured radial velocity
+Internal one-sigma uncertainty in RV
+V magnitude
+Percent probability of membership
+Identification
+Right ascension (ICRS) (computed by VizieR, not part of the original data)
+Declination (ICRS) (computed by VizieR, not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Log of the aperture-corrected velocity dispersion
+Error estimate in logVDis
+[r* g* i* z*] Band
+Log of Band physical half-light radius 
+Error estimate in logRad 
+Band surface brightness 
+Error estimate in SB
+de Vaucouleurs Band absolute magnitude
+Error estimate in MagDev
+Model Band absolute magnitude
+Error estimate in MagMod
+The band K-correction
+Number of near neighbors used as an estimate of the local density 
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Redshift
+Error estimate in z
+Signal-to-noise ratio of the spectrum
+[r* g* i* z*] Band
+The Band apparent half-light radius 
+Error estimate in rDev
+de Vaucouleurs Band apparent magnitude 
+Error estimate in magDev
+Model Band magnitude
+Error estimate in magMod
+The Band axis ratio
+Error estimate in b/a
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Log of the aperture-corrected velocity dispersion
+Error estimate in logVDis
+[r* g* i* z*] Band
+Log of Band physical half-light radius 
+Error estimate in logRad 
+Band surface brightness 
+Error estimate in SB
+de Vaucouleurs Band absolute magnitude
+Error estimate in MagDev
+Model Band absolute magnitude
+Error estimate in MagMod
+The band K-correction
+Number of near neighbors used as an estimate of the local density 
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Redshift
+Error estimate in z
+Signal-to-noise ratio of the spectrum
+[r* g* i* z*] Band
+The Band apparent half-light radius 
+Error estimate in rDev
+de Vaucouleurs Band apparent magnitude 
+Error estimate in magDev
+Model Band magnitude
+Error estimate in magMod
+The Band axis ratio
+Error estimate in b/a
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Log of the aperture-corrected velocity dispersion
+Error estimate in logVDis
+[r* g* i* z*] Band
+Log of Band physical half-light radius 
+Error estimate in logRad 
+Band surface brightness 
+Error estimate in SB
+de Vaucouleurs Band absolute magnitude
+Error estimate in MagDev
+Model Band absolute magnitude
+Error estimate in MagMod
+The band K-correction
+Number of near neighbors used as an estimate of the local density 
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Redshift
+Error estimate in z
+Signal-to-noise ratio of the spectrum
+[r* g* i* z*] Band
+The Band apparent half-light radius 
+Error estimate in rDev
+de Vaucouleurs Band apparent magnitude 
+Error estimate in magDev
+Model Band magnitude
+Error estimate in magMod
+The Band axis ratio
+Error estimate in b/a
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Redshift
+Error estimate in z
+Signal-to-noise ratio of the spectrum
+[r* g* i* z*] Band
+The Band apparent half-light radius 
+Error estimate in rDev
+de Vaucouleurs Band apparent magnitude 
+Error estimate in magDev
+Model Band magnitude
+Error estimate in magMod
+The Band axis ratio
+Error estimate in b/a
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+Log of the aperture-corrected velocity dispersion
+Error estimate in logVDis
+[r* g* i* z*] Band
+Log of Band physical half-light radius 
+Error estimate in logRad 
+Band surface brightness 
+Error estimate in SB
+de Vaucouleurs Band absolute magnitude
+Error estimate in MagDev
+Model Band absolute magnitude
+Error estimate in MagMod
+The band K-correction
+Number of near neighbors used as an estimate of the local density 
+get all parameters in all filters for that galaxy
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identifier (X001 to X458)  \linkRole{X-ray fluxes }
+Other X-ray identifier 
+Radio identifier 
+SNR or SNe identifier 
+Spectral flag 
+Variability flag 
+Source type 
+Additional notes 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identifier (X001 to X458)
+{\bf X} indicates coincident identifications for this W-ray source in table5
+[13] Hour of Right Ascension (J2000)
+[29/30] Degree of Declination (J2000)
+[0/1.5] The 1{sigma} positional error
+[51/791] Exposure time
+[0.01/108.4] The 0.35-8.0keV band count rate
+[0.008/0.4] Uncertainty in CRate
+[-1.2/1.2] Hardness ratio (G1)
+[0/0.7] Uncertainty in (M-S)/T
+[-0.6/1.1] Hardness ratio (G1)
+[0/0.8] Uncertainty in (H-M)/T
+[0.08/396] Total (0.35-8keV) band flux (G1)
+[0.02/3] Statistical uncertainty in FT
+Soft (0.35-1.1keV) band flux (G1)
+Statistical uncertainty in FS
+Medium (1.1-2.6keV) band flux (G1)
+Statistical uncertainty in FM
+Hard (2.6-8keV) band flux (G1)
+Statistical uncertainty in FH
+Medium-soft (0.5-2keV) band flux (G1)
+Statistical uncertainty in F0.5-2
+Medium-hard (2-8keV) band flux (G1)
+Statistical uncertainty in FMH
+[0.4/2249.8] X-ray (0.35-8keV) luminosity (in 10^36^erg/s)
+[0.1/16.3] Statistical uncertainty in Lx
+Cross-match within 3" with optical SNRs from Blair et al. 2012 (J/ApJS/203/8) and X-ray catalogs from Soria and Wu 2003 (J/A+A/410/53) and Ducci et al. 2013 (J/A+A/553/A7)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Object identifier (A001 to A109)
+[13] Hour of Right Ascension (J2000)
+[29] Degree of Declination (J2000)
+[0.03/2.13] The 5 GHz flux density
+[0.01/0.1] Uncertainty in S5 GHz
+Limit flag on S9
+[0.01/1.3] The 9 GHz flux density
+[0.02/0.07] Uncertainty in S9 GHz
+Spatially coincident with radio source note 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Dataset identification (A or B)
+[9] Hour of Right Ascension (J2000)
+[47/48] Degree of Declination (J2000)
+Number of sources in all tables withing 0.8arcsec
+[9.7/21.8] NTT/SofI J band magnitude (only for table 1) 
+[0.02/0.3] Uncertainty in Jmag (only for table 1) 
+[8.9/21] NTT/SofI H band magnitude 
+[0.01/0.6] Uncertainty in Hmag
+[8.6/20] NTT/SofI K_S_ band magnitude
+[0.01/0.6] Uncertainty in Ksmag
+Display the 2MASS data (Cutri et al. 2003, Cat. II/246) if Ksmag15 within 1"
+Record number assigned by the VizieR team. Should Not be used for identification.
+[9] Hour of Right Ascension (J2000)
+[47/48] Degree of Declination (J2000)
+Number of sources in all tables withing 0.8arcsec
+Number of bands observed for this source
+[HIRV] Observed spectral band (V, R, I or H)
+[0.01/16] Polarization 
+[0.02/7] Uncertainty in Pol 
+[0/180] Position angle of polarization 
+[0.3/271] Uncertainty in PA 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Radio source name (JHHMMSS.s-DDMMSS) (G1)
+F814W or F606W bandpass
+Limiting I or V band AB magnitude 
+Integrated flux at 1.4GHz from FIRST cat.
+Record number assigned by the VizieR team. Should Not be used for identification.
+Radio source name (JHHMMSS.s-DDMMSS) (G1)
+[VI] V or I band 
+V or I band magnitude
+Surface brightness within effective radius (see Re in table 5)
+Integrated flux at 1.4GHz from FIRST cat.
+Field depth 
+Likelihood ratio 
+SDSS-DR5 i' band magnitude 
+Error in i'mag
+SDSS-DR5 (g'-r') color index 
+Error in (g'-r') color index
+SDSS-DR5 (r'-i') color index 
+Error in (r'-i') color index
+Details from SDSS-DR5 and SDSS-DR7
+Record number assigned by the VizieR team. Should Not be used for identification.
+Radio source name (JHHMMSS.s-DDMMSS) (G1)
+Right ascension in degree (J2000)
+Declination in degree (J2000)
+Integrated flux at 1.4GHz from FIRST, cat. VIII/71
+WFPC2 target (targname) 
+Details from the FIRST catalog (Becker et al. 2003, Cat. VIII/71)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Radio source name (JHHMMSS.s+DDMMSS) \linkRole{fluxes of the radio galaxy } (G1)
+Effective radius 
+The Sersic index 
+Error in n
+Reduced Chi^2^_{nu}_ 
+Artificial Neural Network type classification 
+Morphology of optical counterpart 
+WFPC2 target 
+Details from the FIRST catalog (Becker et al. 2003, Cat. VIII/71)
+Position (derived from FIRST name) (right ascension part)
+Position (derived from FIRST name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Stellar type and location code 
+Stellar name 
+MK spectral type
+V band magnitude
+Reference for Vmag 
+The (B-V) color index
+Effective temperature
+Reference for Teff 
+Equivalent width of Li (m{AA})
+Log of the Li number abundance
+Rotational period
+Reference for Prot 
+Log of the surface gravity
+Note (dou=double star system or mult=multiple)
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from SIMBAD database (right ascension part)
+Positions from SIMBAD database (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Star name
+MK spectral type (mainly from Li  Hu (1998, Cat. J/A+AS/132/173)
+The SIMBAD (B-V) color index
+Effective temperature determined from B-V
+Effective temperature determined from the line-depth ratios of VI{lambda}6251.83 and FeI{lambda}6252.527
+Effective temperature from literature
+Reference for Teff 
+Equivalent width of Li (m{AA})
+Log of the Li number abundance (H=12)
+Log of the surface gravity
+Rotational period (mainly derived by Xing et al. (2006ChJAA...6..716X)
+Reference for Prot 
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Positions from SIMBAD database (right ascension part)
+Positions from SIMBAD database (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Number of galaxies in this group
+[1/86] Redshift Survey Compact Group catalog identifier (rton et al. 1996AJ....112..871B) \linkRole{SIMBAD object}
+[*] *: Group excluded in analysis 
+[ /A-I] Galaxy member in RSCG group
+[X] X: indicates a galaxy added by authors
+Common galaxy name
+The g' band AB magnitude in SDSS system
+Uncertainty in gmag
+The r' band AB magnitude in SDSS system
+Uncertainty in rmag
+[8.4/16.9] The i' AB magnitude in SDSS system
+Uncertainty in imag
+Sources within 5" from the SDSS-DR7 photometric catalog (II/294)
+Display the online SDSS data for the nearest object
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Positions from SIMBAD common galaxy names (right ascension part)
+Positions from SIMBAD common galaxy names (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Number of galaxies in this group
+[1/100] Hickson's Compact Group catalog identifier (Cat. VII/213)
+[ a-hq] Galaxy in HCG group (\dicS{HCG NNNa} in Simbad)
+[X] X: indicates a galaxy added by authors
+Alternate Redshift Survey Compact Group catalog identifier (Barton et al. 1996AJ....112..871B) \linkRole{SIMBAD object}
+[11.3/17.9] The g' AB magnitude in SDSS system
+Uncertainty in gmag
+The r' band AB magnitude in SDSS system
+Uncertainty in rmag
+[10.1/17.5] The i' AB magnitude in SDSS system
+Uncertainty in imag
+Sources within 5" from the SDSS-DR7 photometric catalog (II/294)
+Display the online SDSS data for the nearest object
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+ask the {\bf\fg{FireBrick}NED} data-base about this object
+Position from NED, with the exception of {\bf88e} which is {\em``new''}, and 31ac (position of HCG 31a) (right ascension part)
+Position from NED, with the exception of {\bf88e} which is {\em``new''}, and 31ac (position of HCG 31a) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Short name
+Spitzer/IRAC 3.6um magnitude
+rms uncertainty on [3.6]
+Spitzer/IRAC 4.5um magnitude
+rms uncertainty on [4.5]
+IRAC [3.4]-[4.5] colour index
+rms uncertainty on [3.6]-[4.5]
+Spitzer Program number
+Record number assigned by the VizieR team. Should Not be used for identification.
+Designation
+Note on Name 
+Limit flag on W1mag
+WISE W1 (3.4um) magnitude
+rms uncertainty on W1mag
+WISE W2 (4.6um) magnitude
+rms uncertainty on W2mag
+Limit flag on W3mag
+WISE W3 (12um) magnitude
+rms uncertainty on W3mag
+Limit flag on W1-W2
+W1-W2 colour index
+rms uncertainty on W1-W2
+Limit flag on Jmag
+J magnitude
+rms uncertainty on Jmag
+Note on Jmag 
+Limit flag on Hmag
+H magnitude
+rms uncertainty on Hmag
+Limit flag on Ksmag
+Ks magnitude
+rms uncertainty on Ksmag
+Limit flag on J-H
+J-H colour index
+rms uncertainty on J-H
+Note on J-H 
+Limit flag on J-Ks
+J-Ks colour index
+rms uncertainty on J-Ks
+Note on J-Ks 
+[btp-] Code for WISE search 
+Note on WISE 
+Catalog or instrument from which the JHKs photometry was taken 
+Short name
+Record number assigned by the VizieR team. Should Not be used for identification.
+Short name
+Near-infrared spectral type 
+Telescope/instrument
+Observation date (UT) (YYYY/MMM/DD)
+Telluric corrector star
+Record number assigned by the VizieR team. Should Not be used for identification.
+Discovery name of the star
+Short name
+WISE right ascension (J2000)
+rms uncertainty on RAWdeg
+WISE declination (J2000)
+rms uncertainty on DEWdeg
+WISE observation MJD
+2MASS right ascension (J2000)
+rms uncertainty on RA2deg
+2MASS declination (J2000)
+rms uncertainty on DE2deg
+2MASS observation MJD
+Number of photometric observations (tables 1 and 2)
+Number of spectroscopic observations (table 3)
+Proper motion along RA
+rms uncertainty on pmRA
+Proper motion along DE
+rms uncertainty on pmDE
+Total proper motion
+rms uncertainty on pm
+Estimated distance
+rms uncertainty on Dist
+[ab] Tentative distance 
+Tangential velocity
+rms uncertainty on Vtan
+[ab] Tentative velocity 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Record number assigned by the VizieR team. Should Not be used for identification.
+[abc] Normal (a) or peculiar L-type star 
+Discovery name
+[bcdef] Note on Name 
+Discovery reference
+Limit flag on Jmag
+J magnitude 
+rms uncertainty on Jmag
+[a] Note on Jmag 
+Limit flag on Ksmag
+Ks magnitude 
+rms uncertainty on Ksmag
+[a] Note on Ksmag 
+Limit flag on J-Ks
+J-Ks colour index
+rms uncertainty on J-Ks
+[a] Note on J-Ks 
+W1 (3.4um) magnitude
+rms uncertainty on W1mag
+W2 (4.6um) magnitude
+rms uncertainty on W2mag
+Limit flag on W3mag
+W3 (12um) magnitude
+rms uncertainty on W3mag
+Optical spectral type (L2 to L8)
+Reference for OType 
+Near-IR spectral type
+Reference for NIRType 
+Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base
+Positions from Simbad (right ascension part)
+Positions from Simbad (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Frame number
+Right ascension (1950) of field center
+Declination (1950) of field center
+")" if the field center is uncertain
+Field designation.
+Calendar year of exposure (offset 1900)
+Serial number of the film canister.
+Tilt angle
+Position angle
+The planned, nominal exposure time
+[UN] Blank, or comment about exposure type
+Actual measured exposure time
+")" if the actual exposure t is uncertain
+Remarks.
+Record number assigned by the VizieR team. Should Not be used for identification.
+HD (Cat. III/135), as in "\begin{tex}\vFile{III/86/./stars}{stars}\end{tex}"
+Frame number, detailed in "\begin{tex}\vFile{III/86/./frames.dat}{frames.dat}\end{tex}" file
+Exposure time
+indicates that a default value is used.
+X position of the star on the plate
+Y position of the star on the plate
+Number of microdensitometer scans of the stellar spectrum
+Weight of the spectrum
+Scale value
+Record number assigned by the VizieR team. Should Not be used for identification.
+Name of file with spectrum, in "sp" subdirectory
+HD number (Cat. III/135)
+Alternative name of the star
+Flux adjustment factor for the star 
+[):+- ] Note about the Flux adjustment factor 
+[UELD] Remark on m135 (G1)
+Magnitude 1347-1364{AA} (Continuum) (G3)
+Weight on m135 (G2)
+Mean error on m135
+[UELD] Remark on m139 (G1)
+Magnitude 1385-1405{AA} (SiIV lines) (G3)
+Weight on m139 (G2)
+Mean error on m139
+[UELD] Remark on m148 (G1)
+Magnitude 1465-1495{AA} (Continuum) (G3)
+Weight on m148 (G2)
+Mean error on m148
+[UELD] Remark on m154 (G1)
+Magnitude 1521-1560{AA} (CIV + FeII + SiII lines) (G3)
+Weight on m154 (G2)
+Mean error on m154
+[UELD] Remark on m161 (G1)
+Magnitude 1587-1636{AA} (Temperature and gravity sensitive blends) (G3)
+Weight on m161 (G2)
+Mean error on m161
+[UELD] Remark on m166 (G1)
+Magnitude 1636-1693{AA} (Continuum; blends in hotter stars) (G3)
+Weight on m166 (G2)
+Mean error on m166
+[UELD] Remark on m172 (G1)
+Magnitude 1693-1760{AA} (Gravity-sensitive blend) (G3)
+Weight on m172 (G2)
+Mean error on m172
+[UELD] Remark on m181 (G1)
+Magnitude 1770-1853{AA} (Continuum) (G3)
+Weight on m181 (G2)
+Mean error on m181
+[UELD] Remark on m192 (G1)
+Magnitude 1870-1975{AA} (Gravity-sensitive depression (FeIII)) (G3)
+Weight on m192 (G2)
+Mean error on m192
+[UELD] Remark on m204 (G1)
+Magnitude 1975-2110{AA} (Continuum) (G3)
+Weight on m204 (G2)
+Mean error on m204
+[UELD] Remark on m219 (G1)
+Magnitude 2110-2290{AA} (Continuum; interstellar extinction) (G3)
+Weight on m219 (G2)
+Mean error on m219
+[UELD] Remark on m245 (G1)
+Magnitude 2320-2600{AA} (Continuum; FeII in cooler stars) (G3)
+Weight on m245 (G2)
+Mean error on m245
+[UELD] Remark on m280 (G1)
+Magnitude 2600-3070{AA} (Continuum; MgII in cooler stars) (G3)
+Weight on m280 (G2)
+Mean error on m280
+[UELD] Remark on m360 (G1)
+Magnitude 3070-4100{AA} (Continuum; approximate Johnson U magnitude) (G3)
+Weight on m360 (G2)
+Mean error on m360
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Right Ascension (J2000) from SIMBAD (not part of the original data)
+Declination (J2000) from SIMBAD (not part of the original data)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name (JHHMMSS.ss+DDMMSS.s)
+Figure of Merit 
+Product probability 
+Peak probability 
+The 8.4GHz flux density
+Radio spectral index
+ROSAT All-Sky Survey count rate
+The USNO B1.0 R2 magnitude
+Redshift
+Uncertainty flag on z
+Source classification (G1)
+Origin of Spectroscopy 
+Position (from name) (right ascension part)
+Position (from name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Source name (JHHMMSS.ss+DDMMSS.s)
+Redshift
+Source classification (G1)
+Position (from name) (right ascension part)
+Position (from name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+[15/25] SDSS g magnitude
+Uncertainty in gmag
+[14.5/24.5] SDSS r magnitude
+Uncertainty in rmag
+[14/24.5] SDSS i magnitude
+Uncertainty in imag
+Used in calibration (SW or WG) 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable identifier (G1) \linkRole{star properties }
+Modified Julian Date (JD-2400000.5)
+[gri] Bandpass used in observation (SDSS g, r, or i)
+[21.1/27.5] Magnitude in Band
+Uncertainty in mag (G2)
+[0/999] Phase (*10^3^)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Variable identifier (G1)
+Number of photometric points for this star
+Right Ascension in decimal degrees (J2000)
+Declination in decimal degrees (J2000)
+[6.975/157] Period
+[21.5/26.1] Mean magnitude in SDSS r band
+[1/45] Uncertainty in rmag (G2)
+[21.42/25.7] Mean magnitude in SDSS i band
+[1/65] Uncertainty in imag (G2)
+[22.1/26.9] Mean magnitude in SDSS g band
+[1/83] Uncertainty in gmag (G2)
+[105/813] Light curve amplitude in SDSS r band
+[100/625] Light curve amplitude in SDSS i band
+[112/1059] Light curve amplitude in SDSS g band
+[ABC] Quality flag on variability based on amplitude ratio 
+[ABC] Quality flag on variability based on Period-Luminosity (P-L) residual 
+Light Curve
+[4/64] Cross-identification with Fausnaugh et al. (2014; arXiv:1303.5076)
+Cross-identification with Macri et al. 2006 (J/ApJ/652/1133 \dicS{[MSB2006] A-NNNNNN} in Simbad)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Running identification number 
+The F555W filter magnitude
+The 1{sigma} uncertainty in F555W
+The F814W filter magnitude
+The 1{sigma} uncertainty in F814W
+Hour of Right Ascension (J2000)
+Degree of Declination (J2000)
+Massey et al. (1989, Cat. J/AJ/98/1305) identification, Cl* NGC 346 MPG NNN in Simbad
+Record number assigned by the VizieR team. Should Not be used for identification.
+Subcluster designation (Sc NN)
+Right ascension (J2000.0)
+Declination (J2000.0)
+Radius of subcluster
+Age of subcluster
+rms uncertainty on Age
+Total number of pre-main sequence (PMS) stars
+PMS number density (NPMS/pc^2^)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Short SDSS designation
+Redshift
+Full width at half maximum
+Log of the 5100{AA} luminosity [erg/s]
+Log of the black hole mass
+Log of the accretion rate
+Optical-X-ray spectra index
+Peak separation
+Show the details from the SDSS site
+Position (derived from SDSS name) (right ascension part)
+Position (derived from SDSS name) (declination part)
+SDSS designation (JHHMMSS.ss+DDMMSS.s)
+Record number assigned by the VizieR team. Should Not be used for identification.
+AGN Name
+Redshift
+V-band magnitude
+Galactic extinction
+Starlight fraction 
+Full width at half maximum
+Log of the 5100{AA} luminosity [erg.s]
+Log of the black hole mass
+Log of the accretion rate
+Optical-X-ray spectral index
+ask the {\bf\fg{FireBrick}Simbad} data-base about this object
+Position (from SIMBAD) (right ascension part)
+Position (from SIMBAD) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[PN] Previously known or New Member
+2MASS PSC name (JHHMMSSss+DDMMSSs)
+[d] d: Also discovered by C. Slesnick et al. (2006), in preparation.
+Other Names
+Spectral Types 
+Reference for SpTypes 
+Membership Evidence 
+2MASS PSC J-H colour index
+2MASS PSC H-Ks colour index
+2MASS PSC Ks magnitude
+Night numbers (defined in table1)
+Position (from 2MASS name) (right ascension part)
+Position (from 2MASS name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+2MASS PSC designation (JHHMMSSss+DDMMSSs)
+[bcd] Note on 2MASS 
+Spectral Type
+2MASS PSC J-H colour index
+2MASS PSC H-Ks colour index
+2MASS PSC Ks magnitude
+Night numbers (defined in table1)
+Position (from 2MASS name) (right ascension part)
+Position (from 2MASS name) (declination part)
+Record number assigned by the VizieR team. Should Not be used for identification.
+Night number
+Date of observation
+Telescope + Instrument
+Dispersive instrument
+Wavelength interval
+Wavelength interval
+lambda/Delta{lambda} resolution
+Record number assigned by the VizieR team. Should Not be used for identification.
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Velocity measurement from this study
+Error in cz
+Comment on cz 
+Velocity measurement from Berrington et al., 2002, Cat. J/AJ/123/2261
+Error in cz
+Record number assigned by the VizieR team. Should Not be used for identification.
+{\bf c} for Cluster galaxies (table2), {\bf a} for additional galaxies (table3)
+Hour of right ascension (J2000)
+Degree of declination (J2000)
+Velocity measurement
+Error in cz
+Reference for cz 
+Cousins R band magnitude 
+The 1.4GHz flux density
+[c] Flag on S1.4GHz 
+Error in S1.4GHz
+Angular separation with associated galaxy
+[a] Indicates extended radio galaxy (ID = A, B, C, I; see Figs. 2-5)
+Identification 
+Classification 
+[a-f, ] Flag on Class 
+Record number assigned by the VizieR team. Should Not be used for identification.
+Note
+Text of the note
+Record number assigned by the VizieR team. Should Not be used for identification.
+Sequential number of ACIS source in BN 
+ACIS source right ascension (J2000.0)
+ACIS source declination (J2000.0)
+ACIS source counts extracted from a 15 circle in the 0.28 keV band with ASCA grades after correction for charge-transfer inefficiency. A background of 2 counts per source has been subtracted.
+ACIS source hydrogen column density
+rms uncertainty on logNH
+Offset between the ACIS source and its counterpart 
+Counterpart class 
+Optical counterpart designation 
+Optical counterpart I magnitude
+Infrared counterpart designation 
+Infrared counterpart K magnitude
+Individual note in notes.dat file
+Record number assigned by the VizieR team. Should Not be used for identification.
+Sequential number of ACIS source in ONC
+ACIS source right ascension (J2000.0)
+ACIS source declination (J2000.0)
+Record number assigned by the VizieR team. Should Not be used for identification.
+[1/5409] Serial number
+Display {\em all} column densities for this star
+Star name
+Galactic Longitude
+Galactic Latitude
+MK spectral type (or object type: QSO...)
+Blue magnitude
+Visual magnitude
+K band magnitude
+Reference(s) for SpType and photometry (G1)
+Limit flag on E(B-V)
+The E(B-V) color excess
+Positive error in E(B-V)
+[,] Negative error in E(B-V)
+Reference(s) for E(B-V) (G1)

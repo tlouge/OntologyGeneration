@@ -1,0 +1,1023 @@
+<?xml version="1.0"?>
+        <Ontology xmlns="http://www.w3.org/2002/07/owl#"
+        xml:base="http://www.semanticweb.org/root/ontologies/2017/5/untitled-ontology-72"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:xml="http://www.w3.org/XML/1998/namespace"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        ontologyIRI="http://www.semanticweb.org/root/ontologies/2017/5/untitled-ontology-72">
+        <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+        <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+        <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+        <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+        <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+
+<Declaration>
+	<Class IRI="#position_computed_from_comparison_with_catalog_i/289"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#position_computed_from_comparison_with_catalog_i/289</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">position computed from comparison with catalog i/289
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#7-digit_flag"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#7-digit_flag</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">7-digit flag
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#limit_flag_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#limit_flag_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">limit flag on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#display_sdss_data_this_galaxy"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#display_sdss_data_this_galaxy</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">display sdss data this galaxy
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#ratio"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#ratio</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ratio
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rc_type_target:_r=regular_target,_c=also_used_as_calibration_field"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#rc_type_target:_r=regular_target,_c=also_used_as_calibration_field"/>
+	<Class IRI="#ratio"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rc_type_target:_r=regular_target,_c=also_used_as_calibration_field</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rc type target: r=regular target, c=also used as calibration field
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#zone"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#zone</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">zone
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(g3)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(g3)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(g3)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#1,2701_reference"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#1,2701_reference</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1,2701 reference
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#y_pixel_coordinate"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#y_pixel_coordinate</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">y pixel coordinate
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#model_band_magnitude"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#model_band_magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">model band magnitude
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#emission_line_flux"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#emission_line_flux</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emission line flux
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#*_indicates_error_greater_than_0.1mag"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#*_indicates_error_greater_than_0.1mag</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">* indicates error greater than 0.1mag
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width_star"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width_star</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width star
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#display_sdss_data_this_object"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#display_sdss_data_this_object</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">display sdss data this object
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#effective_radius_(measured_at_intermediate_axis)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#effective_radius_(measured_at_intermediate_axis)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">effective radius (measured at intermediate axis)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#number_results_this_source_with_ucac2-_and_ucac4-type_reductions"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#number_results_this_source_with_ucac2-_and_ucac4-type_reductions</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">number results this source with ucac2- and ucac4-type reductions
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(vega)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(vega)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(vega)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hg-4340"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hg-4340</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hg-4340
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_degrees_(j2000)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_degrees_(j2000)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal degrees (j2000)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(g2)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(g2)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(g2)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#sharpness"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#sharpness</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sharpness
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#30,15000_frequency"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#30,15000_frequency</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">30,15000 frequency
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#magnitude"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">magnitude
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#i_i_if_magnitude_from_mt._abu_observations_(mko_system)"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#i_i_if_magnitude_from_mt._abu_observations_(mko_system)"/>
+	<Class IRI="#magnitude"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#i_i_if_magnitude_from_mt._abu_observations_(mko_system)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">i i if magnitude from mt. abu observations (mko system)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the_band_axis_ratio"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the_band_axis_ratio</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the band axis ratio
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#sanduleak_name:"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#sanduleak_name:</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sanduleak name:
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#flux_density"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#flux_density</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">flux density
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#record_number_assigned_vizier_team._should_used_identification."/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#record_number_assigned_vizier_team._should_used_identification.</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">record number assigned vizier team. should used identification.
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#individual"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#individual</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">individual
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#spitzer/irac"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#spitzer/irac</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">spitzer/irac
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#flag_on_w(ha)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#flag_on_w(ha)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">flag on w(ha)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#number_near_neighbors_used_as_an_estimate_local_density"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#number_near_neighbors_used_as_an_estimate_local_density</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">number near neighbors used as an estimate local density
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#millimagnitudes"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#millimagnitudes</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">millimagnitudes
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(position_difference"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(position_difference</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(position difference
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#ueld_remark_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#ueld_remark_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ueld remark on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#r*_g*_i*_z*_band"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#r*_g*_i*_z*_band</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">r* g* i* z* band
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#irac"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#irac</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">irac
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#s11"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#s11</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">s11
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#peak_surface_brightness"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#peak_surface_brightness</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">peak surface brightness
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#uncertainty"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#uncertainty</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">uncertainty
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rms_uncertainty_on"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#rms_uncertainty_on"/>
+	<Class IRI="#uncertainty"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rms_uncertainty_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rms uncertainty on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rms_uncertainty_on"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#rms_uncertainty_on"/>
+	<Class IRI="#uncertainty"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rms_uncertainty_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rms uncertainty on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rms_uncertainty_on"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#rms_uncertainty_on"/>
+	<Class IRI="#uncertainty"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rms_uncertainty_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rms uncertainty on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#equivalent_width_ngc"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#equivalent_width_ngc</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">equivalent width ngc
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#band_flux_(g1)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#band_flux_(g1)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">band flux (g1)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#s_used_abundance"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#s_used_abundance</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">s used abundance
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#filter"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#filter</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">filter
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#i_i_if_magnitude_from_mt._abu_observations_(mko_system)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#i_i_if_magnitude_from_mt._abu_observations_(mko_system)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">i i if magnitude from mt. abu observations (mko system)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#de_vaucouleurs_band_apparent_magnitude"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#de_vaucouleurs_band_apparent_magnitude</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">de vaucouleurs band apparent magnitude
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#redshift"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#redshift</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">redshift
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#color"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#color</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">color
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#right_ascension_decimal_deg._(1950)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#right_ascension_decimal_deg._(1950)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">right ascension decimal deg. (1950)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#weight_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#weight_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">weight on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#coefficient"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#coefficient</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">coefficient
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#subaru"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#subaru</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">subaru
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#log_aperture-corrected_velocity_dispersion"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#log_aperture-corrected_velocity_dispersion</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">log aperture-corrected velocity dispersion
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#signal-to-noise_ratio_spectrum"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#signal-to-noise_ratio_spectrum</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">signal-to-noise ratio spectrum
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#source_identification"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#source_identification</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">source identification
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#sources_matching"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#sources_matching</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sources matching
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(from_hyperleda)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(from_hyperleda)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(from hyperleda)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#cluster_name_linkroleall_data_related_to_this_cluster_infall_region"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#cluster_name_linkroleall_data_related_to_this_cluster_infall_region</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cluster name linkroleall data related to this cluster infall region
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#mum"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#mum</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">mum
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rc_type_target:_r=regular_target,_c=also_used_as_calibration_field"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rc_type_target:_r=regular_target,_c=also_used_as_calibration_field</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rc type target: r=regular target, c=also used as calibration field
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#designation_understandable_bffgfirebricksimbad_data-base"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#designation_understandable_bffgfirebricksimbad_data-base</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">designation understandable bffgfirebricksimbad data-base
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#note_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#note_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">note on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#match"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#match</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">match
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#mean_error_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#mean_error_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">mean error on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the_error"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the_error</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the error
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#x_pixel_coordinate"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#x_pixel_coordinate</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">x pixel coordinate
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#1sigma_uncertainty"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#1sigma_uncertainty</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1sigma uncertainty
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#1sigma_error"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#1sigma_error</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1sigma error
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#band_surface_brightness"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#band_surface_brightness</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">band surface brightness
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#o_iii"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#o_iii</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">o iii
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#phillips_deltam_15_(b)_(g1)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#phillips_deltam_15_(b)_(g1)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">phillips deltam_15_(b) (g1)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_h11-3771"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_h11-3771"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_h11-3771</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error h11-3771
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_h10-3797"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_h10-3797"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_h10-3797</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error h10-3797
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_hg-4340"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#error_hg-4340"/>
+	<Class IRI="#error"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_hg-4340</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error hg-4340
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#exposure_time"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#exposure_time</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">exposure time
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#*opt._counterpart_name_or_location_finding_chart"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#*opt._counterpart_name_or_location_finding_chart</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">*opt. counterpart name or location finding chart
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_h11-3771"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_h11-3771</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error h11-3771
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#rms_uncertainty_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#rms_uncertainty_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rms uncertainty on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#iras_flux_at"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#iras_flux_at</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">iras flux at
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#get_all_parameters_all_filters_that_galaxy"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#get_all_parameters_all_filters_that_galaxy</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">get all parameters all filters that galaxy
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#fourier_parameter"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#fourier_parameter</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">fourier parameter
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#sigmas)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#sigmas)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sigmas)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#observing_pointing_identifier"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#observing_pointing_identifier</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">observing pointing identifier
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#(g1)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#(g1)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">(g1)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#declination_decimal_degrees_(1950)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#declination_decimal_degrees_(1950)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">declination decimal degrees (1950)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#s7"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#s7</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">s7
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#abundance_(a(b)=a*10^b^)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#abundance_(a(b)=a*10^b^)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">abundance (a(b)=a*10^b^)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the_band_apparent_half-light_radius"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the_band_apparent_half-light_radius</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the band apparent half-light radius
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#nd_note_on"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#nd_note_on</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nd note on
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#observing_time"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#observing_time</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">observing time
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#distance_nearest"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#distance_nearest</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">distance nearest
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#psf-fit_chi_parameter"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#psf-fit_chi_parameter</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">psf-fit chi parameter
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#h_he_h_or_he-rich_degenerate"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#h_he_h_or_he-rich_degenerate</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">h he h or he-rich degenerate
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#magnitude_ab_system"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#magnitude_ab_system</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">magnitude ab system
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#error_h10-3797"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#error_h10-3797</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">error h10-3797
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#other_magnitude_value"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#other_magnitude_value</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">other magnitude value
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#2mass_psc"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#2mass_psc</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2mass psc
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#display_photometric_sdss-dr7_catalog_(cat._ii/294)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#display_photometric_sdss-dr7_catalog_(cat._ii/294)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">display photometric sdss-dr7 catalog (cat. ii/294)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#magnitude_(vega)"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#magnitude_(vega)</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">magnitude (vega)
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#polarisation"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#polarisation</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">polarisation
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#the"/>
+</Declaration>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#the</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the
+	</Literal>
+</AnnotationAssertion>
+<Declaration>
+	<Class IRI="#other_magnitude_value"/>
+</Declaration>
+<SubClassOf>
+	<Class IRI="#other_magnitude_value"/>
+	<Class IRI="#the"/>
+	</SubClassOf>
+<AnnotationAssertion>
+	<AnnotationProperty abbreviatedIRI="rdfs:label"/>
+	<IRI>#other_magnitude_value</IRI>
+	<Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">other magnitude value
+	</Literal>
+</AnnotationAssertion>
+</Ontology>

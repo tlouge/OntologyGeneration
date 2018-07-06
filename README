@@ -1,0 +1,23 @@
+This code is provided "as-is", only for research purposes.
+The algorithms are detailed in a scientific paper under submission (2018, July).
+The owl files are the result of the tests conducted and described in the said paper.
+
+
+In order to run tests, the following steps are to be conducted:
+python ./ExtractStructure3.py <matrices size> <file containing capacities to analyze> <similarity measurement method (stringdist|levensthein|w2vec|jaro-winkler)> <clustering algorithm (affinity|kmeans|meanshift)>
+python ./analyze_structure_results.py <matrices size> <value for V parameter> > Resume<matrices size>.txt
+python ./QuantifyQuality.py <matrices size>
+python EstimationOfPerformancesForPopulation.py <file containing capacities to analyze> Resume<matrices size>.txt <(stringdist|levensthein|w2vec|jaro-winkler)> >> population.txt
+python ./GenerateStructure.py Resume<matrices size>.txt <(affinity|kmeans|meanshift)>_<(stringdist|levensthein|w2vec|jaro-winkler)>_<matrices size>
+
+
+For example, for a matrices size of 500
+capacities to derive taxonomy from stored in a file named AstroSentences_106000.txt
+using affinity poropagation clustering algorithm
+and stringdist similarity measurement
+
+python ./ExtractStructure3.py 500 AstroSentences_106000.txt stringdist affinity
+python ./analyze_structure_results.py 500 0.7 > Resume500.txt
+python ./QuantifyQuality.py 500
+python EstimationOfPerformancesForPopulation.py AstroSentences_106000.txt Resume500.txt stringdist >> population.txt
+python ./GenerateStructure.py Resume500.txt affinity_stringdist_500
